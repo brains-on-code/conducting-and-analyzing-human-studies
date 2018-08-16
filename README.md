@@ -35,5 +35,5 @@ In the sense of transparent and replicable science, we are doing our best to pro
 
 # Literature Review
 
-A list of all reviewed studies with our assessment comments and explanations is provided in `literature_review.csv`.
+A list of all reviewed studies with our assessment comments and explanations is provided in `literature_review.tsv`.
 
