@@ -33,4 +33,7 @@ Be sure to have write permission, as several files are created during the genera
 
 In the sense of transparent and replicable science, we are doing our best to provide all necessary information on this Web site. Please contact us if you run into any troubles!
 
+# Literature Review
+
+A list of all reviewed studies with our assessment comments and explanations is provided in `literature_review.csv`.
 
