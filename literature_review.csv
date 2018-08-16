@@ -1,4 +1,4 @@
-Paper;PaperID;Empirical Exp./Analysis;human?;"Averaged or single task? (s: single tasks; a: averaged; na = not applicable)";Explanation;Task (to evaluate whether aggregation makes sense or not)
+Paper;PaperID;Empirical Exp./Analysis;human?;Averaged or single task? (s: single tasks, a: averaged, na = not applicable);Explanation;Task (to evaluate whether aggregation makes sense or not)
 A case study on bypass testing of web applications;EMSE14_1;yes;no;;;
 An evaluation of the statistical convertibility of Function Points into COSMIC Function Points;EMSE14_10;yes;no;;;
 An experimental evaluation of the importance of randomness in hill climbing searches applied to software engineering problems;EMSE14_11;yes;no;;;
@@ -33,14 +33,14 @@ Measuring and modeling programming experience;EMSE14_37;yes;yes;a;number of corr
 MND-SCEMP: an empirical study of a software cost estimation modeling process in the defense domain;EMSE14_38;yes;yes;na;experts were recruited to complement cost estimation of software project;
 On the role of tests in test-driven development: a differentiated and partial replication;EMSE14_39;yes;yes;a;number of test cases, external quality over implementations is analyzed;test-first implementation of source code
 A replicated quasi-experimental study on the influence of personality and team climate in software development;EMSE14_4;yes;yes;unclear;"no clear definition of tasks; only practical assignment to show the effect of learning";
-On the variation and specialisation of workload—A case study of the Gnome ecosystem community;EMSE14_40;yes;no;;;
+On the variation and specialisation of workloadâ€”A case study of the Gnome ecosystem community;EMSE14_40;yes;no;;;
 On using machine learning to automatically classify software applications into domain categories;EMSE14_41;yes;no;;;
 Predicting object-oriented class reuse-proneness using internal quality attributes;EMSE14_42;yes;no;;;
 Recovering from a decade: a systematic mapping of information retrieval approaches to software traceability;EMSE14_43;yes;no;;;
 Replication of empirical studies in software engineering research: a systematic mapping study;EMSE14_44;yes;no;;;
-Reporting experiments to satisfy professionals’ information needs;EMSE14_45;yes;yes;na;purely qualitative (card sorting);
+Reporting experiments to satisfy professionalsâ€™ information needs;EMSE14_45;yes;yes;na;purely qualitative (card sorting);
 Software defect prediction using Bayesian networks;EMSE14_46;yes;no;;;
-Software process evaluation: a machine learning framework with application to defect management process;EMSE14_47;yes;yes;a;time, effort, and quality are each discussed based on all projects;software inspection tasks to set the baseline for a machine-learning approach
+Software process evaluation: a machine learning framework with application to defect managementÂ process;EMSE14_47;yes;yes;a;time, effort, and quality are each discussed based on all projects;software inspection tasks to set the baseline for a machine-learning approach
 Static test case prioritization using topic models;EMSE14_48;yes;no;;;
 SWordNet: Inferring semantically related words from software context;EMSE14_49;yes;no;;;
 Agile vs. structured distributed software development: A case study;EMSE14_5;yes;yes;na;interviews on software development process;
@@ -76,15 +76,15 @@ Link analysis algorithms for static concept location: an empirical assessment;EM
 Management of community contributions;EMSE15_29;yes;no;;;
 A Large-Scale Empirical Study of the Relationship between Build Technology and Build Maintenance;EMSE15_3;yes;no;;;
 Mining software repair models for reasoning on the search space of automated program fixing;EMSE15_30;yes;no;;;
-Modelling the ‘hurried’ bug report reading process to summarize bug reports;EMSE15_31;yes;yes;a;average quality of rating;rating of generated bug report summaries
+Modelling the â€˜hurriedâ€™ bug report reading process to summarize bug reports;EMSE15_31;yes;yes;a;average quality of rating;rating of generated bug report summaries
 Multi-objective ant colony optimization for requirements selection;EMSE15_32;yes;no;;;
 Object-oriented software extensions in practice;EMSE15_33;yes;no;;;
 On rapid releases and software testing: a case study and a semi-systematic literature review;EMSE15_34;yes;yes;na;interview with one employee to triangulate automated findings;
 Optimising agile development practices for the maintenance operation: nine heuristics;EMSE15_35;yes;yes;na;data collection of every-day work over a year;
 Recommending reference API documentation;EMSE15_36;yes;yes;a;sum of estimation of usefulness;estimation of usefulness of KI
 Semi-automatic selection of primary studies in systematic literature reviews: is it reasonable?;EMSE15_37;yes;no;;;
-Should I follow this fault localization tool’s output?;EMSE15_38;yes;no;;;
-Software requirements prioritization and selection using linguistic tools and constraint solvers—a controlled experiment;EMSE15_39;yes;yes;a;"average time; % of correct answers";requirement prioritization and selection
+Should I follow this fault localization toolâ€™s output?;EMSE15_38;yes;no;;;
+Software requirements prioritization and selection using linguistic tools and constraint solversâ€”a controlled experiment;EMSE15_39;yes;yes;a;"average time; % of correct answers";requirement prioritization and selection
 A practical guide to controlled experiments of software engineering tools with human participants;EMSE15_4;yes;no;;;
 Studying the relationship between logging characteristics and the code quality of platform software;EMSE15_40;yes;no;;;
 Supporting and accelerating reproducible empirical research in software evolution and maintenance using TraceLab Component Library;EMSE15_41;yes;no;;;
@@ -95,7 +95,7 @@ Towards improving statistical modeling of software engineering data: think local
 Transfer learning in effort estimation;EMSE15_46;yes;no;;;
 UML model refactoring: a systematic literature review;EMSE15_47;yes;no;;;
 Understanding the impact of rapid releases on software quality;EMSE15_48;yes;no;;;
-Understanding the Influence of User Participation and Involvement on System Success – a Systematic Mapping Study;EMSE15_49;yes;no;;;
+Understanding the Influence of User Participation and Involvement on System Success â€“ a Systematic Mapping Study;EMSE15_49;yes;no;;;
 Achieving scalable mutation-based generation of whole test suites;EMSE15_5;yes;no;;;
 Visual GUI testing in practice: challenges, problemsand limitations;EMSE15_50;yes;yes;na;observed effect of new with automatically collected data;
 An elicitation instrument for operationalising GQM+Strategies (GQM+S-EI);EMSE15_6;yes;no;;;
@@ -118,7 +118,7 @@ Does the level of detail of UML diagrams affect the maintainability of source co
 Experimentation with dynamic simulation models in software engineering: planning and reporting guidelines;EMSE2016_21;yes;no;;;
 Continuously mining distributed version control systems: an empirical study of how Linux uses Git;EMSE2016_22;yes;no;;;
 Assessing refactorings for usability in e-commerce applications;EMSE2016_23;yes;yes;s;Analysis and dicsussion on the effect of individual refactoring tasks (in this case probably necessary);Various refactoring task for higher usability
-Exploring the costs of technical debt management – a case study;EMSE2016_24;yes;no;;;
+Exploring the costs of technical debt management â€“ a case study;EMSE2016_24;yes;no;;;
 Game of detections: how are security vulnerabilities discovered in the wild?;EMSE2016_25;yes;yes;na;survey;
 Scalable data structure detection and classification for C/C++ binaries;EMSE2016_26;yes;no;;;
 The impact of tangled code changes on defect prediction models;EMSE2016_27;yes;no;;;
@@ -169,8 +169,8 @@ Using text clustering to predict defect resolution time: a conceptual replicatio
 An empirical study of unspecified dependencies in make-based build systems;EMSE2017_10;yes;no;;;
 The Debsources Dataset: two decades of free and open source software;EMSE2017_11;yes;no;;;
 Productivity paradoxes revisited;EMSE2017_12;yes;no;;;
-Raters’ reliability in clone benchmarks construction;EMSE2017_13;yes;yes;av;Empirical study to investigate accuracy of user judgments about clones, 500+ code snippets, discussions only on group averages (e.g., expert vs. non-expert);Code clone: yes or no?
-Characterizing logging practices in Java-based open source software projects – a replication study in Apache Software Foundation;EMSE2017_14;yes;no;;;
+Ratersâ€™ reliability in clone benchmarks construction;EMSE2017_13;yes;yes;av;Empirical study to investigate accuracy of user judgments about clones, 500+ code snippets, discussions only on group averages (e.g., expert vs. non-expert);Code clone: yes or no?
+Characterizing logging practices in Java-based open source software projects â€“ a replication study in Apache Software Foundation;EMSE2017_14;yes;no;;;
 Predicting the delay of issues with due dates in software projects;EMSE2017_15;yes;no;;;
 Exception handling bug hazards in Android;EMSE2017_16;yes;yes;na;Survey of developers, only part of the paper;
 Empirical evaluation of the effects of experience on code quality and programmer productivity: an exploratory study;EMSE2017_17;yes;yes;s;10 quasi-experiments in industry in practice; 2 hours for two test-last development tasks
@@ -192,14 +192,14 @@ On negative results when using sentiment analysis tools for software engineering
 Stochastic actor-oriented modeling for studying homophily and social influence in OSS projects;EMSE2017_31;yes;no;;;
 Search-based detection of model level changes;EMSE2017_32;yes;no;;;
 Generating valid grammar-based test inputs by means of genetic programming and annotated grammars;EMSE2017_33;yes;no;;;
-To log, or not to log: using heuristics to identify mandatory log events – a controlled experiment;EMSE2017_34;yes;yes;Both;Some results and discussions on group basis, some individual task artifacts;Identify MLE (mandatory log events)
+To log, or not to log: using heuristics to identify mandatory log events â€“ a controlled experiment;EMSE2017_34;yes;yes;Both;Some results and discussions on group basis, some individual task artifacts;Identify MLE (mandatory log events)
 Robust Statistical Methods for Empirical Software Engineering;EMSE2017_35;yes;no;;;
 On the pragmatic design of literature studies in software engineering: an experience-based guideline;EMSE2017_36;yes;no;;;
 Model comprehension for security risk assessment: an empirical comparison of tabular vs. graphical representations;EMSE2017_37;yes;yes;av;Group/experiment averages;Model comprehension for secruity risk assessment
 Will this localization tool be effective for this bug? Mitigating the impact of unreliability of information retrieval based bug localization tools;EMSE2017_38;yes;no;;;
-Recurring opinions or productive improvements—what agile teams actually discuss in retrospectives;EMSE2017_39;yes;yes;na;longitudenal case study of retrospectives;
+Recurring opinions or productive improvementsâ€”what agile teams actually discuss in retrospectives;EMSE2017_39;yes;yes;na;longitudenal case study of retrospectives;
 Multi-objective reverse engineering of variability-safe feature models based on code dependencies of system variants;EMSE2017_4;yes;no;;;
-An initial analysis of software engineers’ attitudes towards organizational change;EMSE2017_40;yes;yes;na;questionnaire;
+An initial analysis of software engineersâ€™ attitudes towards organizational change;EMSE2017_40;yes;yes;na;questionnaire;
 Towards just-in-time suggestions for log changes;EMSE2017_41;yes;no;;;
 Which log level should developers choose for a new logging statement?;EMSE2017_42;yes;no;;;
 Zen-ReqOptimizer: a search-based approach for requirements assignment optimization;EMSE2017_43;yes;no;;;
@@ -219,14 +219,14 @@ Do bugs foreshadow vulnerabilities? An in-depth study of the chromium project;EM
 Learning to rank code examples for code search engines;EMSE2017_56;yes;no;;;
 A study of the relation of mobile device attributes with the user-perceived quality of Android apps;EMSE2017_57;yes;no;;;
 Requirements reuse and requirement patterns: a state of the practice survey;EMSE2017_59;yes;yes;na;exploratory survey study;
-“Failures” to be celebrated: an analysis of major pivots of software startups;EMSE2017_6;yes;no;;;
+â€œFailuresâ€ to be celebrated: an analysis of major pivots of software startups;EMSE2017_6;yes;no;;;
 An empirical study of supplementary patches in open source projects;EMSE2017_60;yes;no;;;
 A stability assessment of solution adaptation techniques for analogy-based software effort estimation;EMSE2017_61;yes;no;;;
 Identifying the implied: Findings from three differentiated replications on the use of security requirements templates;EMSE2017_62;yes;yes;Both;Multiple studies, With/without suggested template, some data on individual use cases (tasks), some experiment averages;Identify security requirements
 A detailed investigation of the effectiveness of whole test suite generation;EMSE2017_64;yes;no;;;
 Fragile base-class problem, problem?;EMSE2017_65;yes;yes;na;Survey, only part;
 Group versus individual use of power-only EPMcreate as a creativity enhancement technique for requirements elicitation;EMSE2017_66;yes;yes;na;Different group sizes to evaluate its effect on idea generation, also a survey;Generate ideas for requirements
-fine-GRAPE: fine-grained APi usage extractor – an approach and dataset to investigate API usage;EMSE2017_67;yes;no;;;
+fine-GRAPE: fine-grained APi usage extractor â€“ an approach and dataset to investigate API usage;EMSE2017_67;yes;no;;;
 Eye movements in software traceability link recovery;EMSE2017_68;yes;yes;both;Analysis on individual bugs and the overall average;8 bug localizations
 A repository of Unix history and evolution;EMSE2017_69;yes?;no;;;
 Extracting and analyzing time-series HCI data from screen-captured task videos;EMSE2017_7;yes;no;;;
@@ -290,7 +290,7 @@ Time variance and defect prediction in software projects;ESE12_17(4)_6;yes;no;;;
 Clones: what is that smell?;ESE12_17(4)_7;yes;no;;;
 Developing a grounded theory to explain the practices of self-organizing Agile teams;ESE12_17(6)_1;yes;yes;na;qualitative study;
 Computer-mediated communication to support distributed requirements elicitations and negotiations tasks;ESE12_17(6)_2;yes;no;;;
-Strengths and barriers behind the successful agile deployment—insights from the three software intensive companies in Finland;ESE12_17(6)_3;yes;yes;na;qualitative study;
+Strengths and barriers behind the successful agile deploymentâ€”insights from the three software intensive companies in Finland;ESE12_17(6)_3;yes;yes;na;qualitative study;
 What should developers be aware of? An empirical study on the directives of API documentation;ESE12_17(6)_4;no;no;;;
 Software development effort prediction of industrial projects applying a general regression neural network;ESE12_17(6)_5;yes;no;;;
 Kernel methods for software effort estimation;ESE13_18(1)_1;yes;no;;;
@@ -324,7 +324,7 @@ How (and why) developers use the dynamic features of programming languages: the 
 Automated topic naming;ESE13_18(6)_3;yes;no;;;
 How do open source communities blog?;ESE13_18(6)_4;yes;no;;;
 Adoption and use of Java generics;ESE13_18(6)_5;yes;no;;;
-"Don’t Touch My Code!
+"Donâ€™t Touch My Code!
 Examining the Effects of Ownership on Software Quality";FSE11_1;yes;no;;;
 Proving Programs Robust;FSE11_10;yes;no;;;
 Checking Conformance of a Producer and a Consumer;FSE11_11;yes;no;;;
@@ -407,7 +407,7 @@ Crossing the Gap from Imperative to Functional Programming through Refactoring;F
 Differential Assertion Checking;FSE13_13;yes;no;;;
 Distributed Program Tracing;FSE13_14;yes;no;;;
 Diversity in Software Engineering Research;FSE13_15;yes;no;;;
-Do All Task Dependencies Require Coordination? The Role of Task Properties in Identifying Critical Coordination ;FSE13_16;yes;no;;;
+Do All Task Dependencies Require Coordination? The Role of Task Properties in Identifying Critical CoordinationÂ ;FSE13_16;yes;no;;;
 Dynodroid: An Input Generation System for Android Apps;FSE13_17;yes;no;;;
 Effective Dynamic Detection of Alias Analysis Errors;FSE13_18;yes;no;;;
 Efficiency and early fault detection with lower and higher strength combinatorial interaction testing;FSE13_19;yes;no;;;
@@ -496,14 +496,14 @@ Are Mutants a Valid Substitute for Real Faults in Software Testing?;FSE2014_53;y
 No Issue Left Behind: Reducing Information Overload in Issue Tracking;FSE2014_54;yes;yes;na;grounded theory -> developed tool -> tool validation via interviews;
 Panning Requirement Nuggets in Stream of Software Maintenance Tickets;FSE2014_55;yes;yes;na;Many different experiments, two user studies, but rather qualitative work;
 Learning to Rank Relevant Files for Bug Reports using Domain Knowledge;FSE2014_56;yes;no;;;
-Developers’ Code Context Models for Change Tasks;FSE2014_57;yes;yes;s;Exploratory study to understand navigation of code when changes are required, 3 different programs. Tasks are discussed individually (probably necessary due to the long-running nature?);Long running change tasks (>30 minutes)
+Developersâ€™ Code Context Models for Change Tasks;FSE2014_57;yes;yes;s;Exploratory study to understand navigation of code when changes are required, 3 different programs. Tasks are discussed individually (probably necessary due to the long-running nature?);Long running change tasks (>30 minutes)
 Querying Sequential Software Engineering Data;FSE2014_58;yes;no;;;
 A Foundation for Refactoring C with Macros;FSE2014_59;yes;no;;;
 Mining Preconditions of APIs in Large-Scale Code Corpus;FSE2014_6;yes;yes;na;Survey, only minor part;
 Vector Abstraction and Concretization for Scalable Detection of Refactorings;FSE2014_60;yes;no;;;
 FlowTwist: Efficient Context-Sensitive Inside-Out Taint Analysis for Large Codebases;FSE2014_61;yes;no;;;
 Automatic Mining of Specifications from Invocation Traces and Method Invariants;FSE2014_7;yes;no;;;
-Software Developers’ Perceptions of Productivity;FSE2014_8;yes;yes;na;survey, observational explorative study;
+Software Developersâ€™ Perceptions of Productivity;FSE2014_8;yes;yes;na;survey, observational explorative study;
 Counterexample Guided Abstraction Refinement of Product-Line Behavioural Models;FSE2014_9;yes;no;;;
 Proactive Self-Adaptation under Uncertainty: A Probabilistic Model Checking Approach;FSE2015_1;yes;no;;;
 How Developers Search for Code: A Case Study;FSE2015_10;yes;yes;na;survey;
@@ -704,7 +704,7 @@ Craig vs. Newton in Software Model Checking;FSE2017_53;yes;no;;;
 On Evidence Preservation Requirements for Forensic-Ready Systems;FSE2017_54;yes;no;;;
 S3: Syntax- and Semantic-Guided Repair Synthesis via Programming by Examples;FSE2017_55;yes;no;;;
 Thread-Modular Static Analysis for Relaxed Memory Models;FSE2017_56;yes;no;;;
-µDroid: An Energy-Aware Mutation Testing Framework for Android;FSE2017_57;yes;no;;;
+ÂµDroid: An Energy-Aware Mutation Testing Framework for Android;FSE2017_57;yes;no;;;
 Symbolic Execution of Programmable Logic Controller Code;FSE2017_58;yes;no;;;
 Why Modern Open Source Projects Fail;FSE2017_59;yes;yes;na;survey;
 Cooperative Kernels: GPU Multitasking for Blocking Algorithms;FSE2017_6;yes;no;;;
@@ -786,7 +786,7 @@ Recommending Source Code for Use in Rapid Software Prototypes;ICSE12_59;yes;yes;
 Reconciling Manual and Automatic Refactoring.pdf;ICSE12_60;yes;yes;a;refactoring tasks, 3 of 14 were complex and discussed in detail, but summary based on all tasks;refactoring tasks
 Recovering Traceability Links between an API and Its Learning Resources;ICSE12_61;yes;no;;;
 Reducing confounding bias in predicate-level statistical debugging metrics.pdf;ICSE12_62;yes;no;;;
-Semi-automatically extracting FAQs to improve accessibility of software development knowledge.pdf;ICSE12_63;yes;yes;na;developers selected FAQs and according answers, that automatic approach generated/selected…;
+Semi-automatically extracting FAQs to improve accessibility of software development knowledge.pdf;ICSE12_63;yes;yes;na;developers selected FAQs and according answers, that automatic approach generated/selectedâ€¦;
 Simulation-Based Abstractions for Software Product-Line Model Checking.pdf;ICSE12_64;yes;no;;;
 Slicing MATLAB simulink models.pdf;ICSE12_65;yes;no;;;
 Sound Empirical Evidence in Software Testing.pdf;ICSE12_66;yes;no;;;
@@ -1270,7 +1270,7 @@ Identifying Features in Forks;ICSE2018_100;yes;yes;na;Qualitatively evaluate too
 Large-Scale Analysis of Framework-Specific Exceptions in Android Apps;ICSE2018_101;yes;no;;;
 A Static Verification Framework for Message Passing in Go Using Behavioural Types;ICSE2018_102;yes;no;;;
 HireBuild: An Automatic Approach to History-Driven Repair of Build Scripts;ICSE2018_103;yes;no;;;
-FaCoY – A Code-to-Code Search Engine;ICSE2018_104;yes;no;;;
+FaCoY â€“ A Code-to-Code Search Engine;ICSE2018_104;yes;no;;;
 RFC-Directed Differential Testing of Certificate Validation in SSL/TLS Implementations;ICSE2018_105;yes;no;;;
 Open Source Barriers to Entry, Revisited: A Sociotechnical Perspective;ICSE2018_11;yes;yes;na;field study;
 Deep Code Search;ICSE2018_12;yes;no;;;
@@ -1284,7 +1284,7 @@ Adding Sparkle to Social Coding: An Empirical Study of Repository Badges in the 
 To Distribute or Not to Distribute? Why Licensing Bugs Matter;ICSE2018_2;yes;no;;;
 Accurate and Efficient Refactoring Detection in Commit History;ICSE2018_20;yes;no;;;
 Roles and Impacts of Hands-on Software Architects in Five Industrial Case Studies;ICSE2018_21;yes;yes;na;interviews;
-The Evolution of Requirements Practices in Software Startups;ICSE2018_22;yes;yes;na;grounded theory, interviews, observations, …;
+The Evolution of Requirements Practices in Software Startups;ICSE2018_22;yes;yes;na;grounded theory, interviews, observations, â€¦;
 A Large-Scale Empirical Study on the Effects of Code Obfuscations on Android Apps and Anti-Malware Products;ICSE2018_23;yes;no;;;
 A Combinatorial Approach for Exposing Off-Nominal Behaviors;ICSE2018_24;yes;no;;;
 Generalized Data Structure Synthesis;ICSE2018_25;yes;no;;;
