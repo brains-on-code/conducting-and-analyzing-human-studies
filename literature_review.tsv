@@ -1,0 +1,1371 @@
+Paper	PaperID	Empirical Exp./Analysis	human?	"Averaged or single task? (s: single tasks; a: averaged; na = not applicable)"	Explanation	Task (to evaluate whether aggregation makes sense or not)
+A case study on bypass testing of web applications	EMSE14_1	yes	no			
+An evaluation of the statistical convertibility of Function Points into COSMIC Function Points	EMSE14_10	yes	no			
+An experimental evaluation of the importance of randomness in hill climbing searches applied to software engineering problems	EMSE14_11	yes	no			
+An experimental investigation on the effects of context on source code identifiers splitting and expansion	EMSE14_12	yes	yes	a	average values or sums	split and expand identifiera
+An industrial study of applying input space partitioning to test financial calculation engines 	EMSE14_13	yes	no			
+Are test cases needed? Replicated comparison between exploratory and test-case-based software testing	EMSE14_14	yes	yes	a	number of defects was added	defect detection, comparison of two techniques
+Assessing the capability of code smells to explain maintenance problems: an empirical study combining quantitative and qualitative data	EMSE14_15	yes	yes	na	purely qualitative	
+Automating extract class refactoring: an improved method and its evaluation	EMSE14_16	yes	yes	a	average rating	subjects rated the appropriateness of refractorings
+AutoRELAX: automatically RELAXing a goal model to address uncertainty	EMSE14_17	yes	no			
+Bug characteristics in open source software	EMSE14_18	yes	no			
+Challenges and industry practices for managing software variability in small and medium sized enterprises	EMSE14_19	yes	yes	na	purely qualitative	
+A family of experiments to assess the effectiveness and efficiency of source code obfuscation techniques	EMSE14_2	yes	yes	a	number of errors and mean response times	implementation tasks
+Challenges and practices in aligning requirements with verification and validation: a case study of six companies	EMSE14_20	yes	yes	na	interviews	
+Comprehensibility of UML-based software product line specifications	EMSE14_21	yes	yes	a	sum of scores of each question	15 comprehension questions
+Conducting quantitative software engineering studies with Alitheia Core	EMSE14_22	yes	no			
+Configuring latent Dirichlet allocation based feature location	EMSE14_23	yes	no			
+Contributions of model checking and CoFI methodology to the development of space embedded software	EMSE14_24	yes	yes	na	experts were recruited to develop software to be tested with new approach	
+Correlations between bugginess and time-based commit characteristics	EMSE14_25	yes	no			
+Data collection in global software engineering research: learning from past experience	EMSE14_26	yes	yes	na	purely qualitative and methodological	
+Effectiveness for detecting faults within and outside the scope of testing techniques: an independent replication	EMSE14_27	yes	yes	both		fault localization in software systems
+Empirical study on the maintainability of Web applications: Model-driven Engineering vs Code-centric	EMSE14_28	yes	yes	a	sum/number of tasks per hour	10 maintainability tasks, 5 per treatment
+Evolving robust networks for systems-of-systems: is it viable for large networks?	EMSE14_29	yes	no			
+A flexible method to estimate the software development effort based on the classification of projects and localization of comparisons	EMSE14_3	yes	no			
+Examination of the software architecture change characterization scheme using three empirical studies	EMSE14_30	yes	yes	a	2 change tasks were compared against each other to evaluate a new tool	implement changes over course of semester
+From offshore outsourcing to insourcing and partnerships: four failed outsourcing attempts	EMSE14_31	yes	yes	na	multi case study	
+High-MCC Functions in the Linux Kernel	EMSE14_32	yes	yes	a	correlation of perceived complexity with regularity of source code	estimation of complexity
+How changes affect software entropy: an empirical study	EMSE14_33	yes	no			
+Investigating the effects of personality traits on pair programming in a higher education setting through a family of experiments	EMSE14_34	yes	yes	a	grade in exams	tasks throughout the semester
+Investigation of individual factors impacting the effectiveness of requirements inspections: a replicated experiment	EMSE14_35	yes	yes	a	number of faults is analyzed	estimation of faults
+Labeling source code with information retrieval methods: an empirical study	EMSE14_36	yes	yes	a	average time/sum of labels	tasks to label source code (to give additional information)
+Measuring and modeling programming experience	EMSE14_37	yes	yes	a	number of correctly solved tasks	10 program comprehension tasks
+MND-SCEMP: an empirical study of a software cost estimation modeling process in the defense domain	EMSE14_38	yes	yes	na	experts were recruited to complement cost estimation of software project	
+On the role of tests in test-driven development: a differentiated and partial replication	EMSE14_39	yes	yes	a	number of test cases, external quality over implementations is analyzed	test-first implementation of source code
+A replicated quasi-experimental study on the influence of personality and team climate in software development	EMSE14_4	yes	yes	unclear	"no clear definition of tasks; only practical assignment to show the effect of learning"	
+On the variation and specialisation of workload—A case study of the Gnome ecosystem community	EMSE14_40	yes	no			
+On using machine learning to automatically classify software applications into domain categories	EMSE14_41	yes	no			
+Predicting object-oriented class reuse-proneness using internal quality attributes	EMSE14_42	yes	no			
+Recovering from a decade: a systematic mapping of information retrieval approaches to software traceability	EMSE14_43	yes	no			
+Replication of empirical studies in software engineering research: a systematic mapping study	EMSE14_44	yes	no			
+Reporting experiments to satisfy professionals’ information needs	EMSE14_45	yes	yes	na	purely qualitative (card sorting)	
+Software defect prediction using Bayesian networks	EMSE14_46	yes	no			
+Software process evaluation: a machine learning framework with application to defect management process	EMSE14_47	yes	yes	a	time, effort, and quality are each discussed based on all projects	software inspection tasks to set the baseline for a machine-learning approach
+Static test case prioritization using topic models	EMSE14_48	yes	no			
+SWordNet: Inferring semantically related words from software context	EMSE14_49	yes	no			
+Agile vs. structured distributed software development: A case study	EMSE14_5	yes	yes	na	interviews on software development process	
+The impact of UML modeling on defect density and defect resolution time in a proprietary system	EMSE14_50	yes	no			
+Validating differential relationships between risk categories and project performance as perceived by managers	EMSE14_51	yes	no			
+Variation factors in the design and analysis of replicated controlled experiments	EMSE14_52	yes	both			
+What are developers talking about? An analysis of topics and trends in Stack Overflow	EMSE14_53	yes	no			
+An empirical study of control logic specifications for programmable logic controllers	EMSE14_6	yes	no			
+An empirical study of identifier splitting techniques	EMSE14_7	yes	yes	na	participants are used to create a ground truth	
+An empirical study on the impact of static typing on software maintainability	EMSE14_8	yes	yes	s	effects discussed task-wise	10 programming tasks
+An empirically based terminology and taxonomy for global software engineering	EMSE14_9	yes	yes	na	10 experts recruited to develop glossary for terms in global software engineering, where terms are used ambiguously	
+1600 faults in 100 projects: automatically finding faults while achieving high coverage with EvoSuite	EMSE15_1	yes	no			
+An experimental investigation comparing individual and collaborative work productivity when using desktop and cloud modeling tools	EMSE15_10	yes	yes	both	time and number of corrections per task, then tasks are summarized in a model	creating, adapting, and sharing models
+Are test smells really harmful? An empirical study	EMSE15_11	yes	yes	s	analysis and significance test for each task	"finding test smells; one factor, presence/absence of test smells"
+Automated prediction of bug report priority using multi-factor analysis	EMSE15_12	yes	no			
+Case studies synthesis: a thematic, cross-case, and narrative synthesis worked example	EMSE15_13	yes	no			
+Charting the API minefield using software telemetry data	EMSE15_14	yes	no			
+Classification model for code clones based on machine learning	EMSE15_15	yes	yes	a	clone categorization separated by different projects	categorization of whether code pieces are clones or not
+Confounding parameters on program comprehension: a literature survey	EMSE15_16	yes	no			
+Detecting and refactoring code smells in spreadsheet formulas	EMSE15_17	yes	yes	na	developers evaluated whether smells in their own spreadsheets are really smells	
+Developer initiation and social interactions in OSS: A case study of the Apache Software Foundation	EMSE15_18	yes	no			
+Do developers benefit from requirements traceability when evolving and maintaining a software system?	EMSE15_19	yes	yes	task as independent variable	average time and correctness of all tasks	maintenance
+A large study on the effect of code obfuscation on the quality of java code	EMSE15_2	yes	no			
+Do topics make sense to managers and developers?	EMSE15_20	yes	yes	a	sum of agreement/disagreement	rating of automatically generated topics
+Empirical evidence on the link between object-oriented measures and external quality attributes: a systematic literature review	EMSE15_21	yes	no			
+Fault density, fault types, and spectra-based fault localization	EMSE15_22	yes	no			
+Fostering effective inter-team knowledge sharing in agile software development	EMSE15_23	yes	yes	na	grounded theory	
+Green mining: a methodology of relating software change and configuration to power consumption	EMSE15_24	yes	no			
+HAZOP-based identification of events in use cases	EMSE15_25	yes	yes	a	defined metrics based on the number of identified events and number of steps	identification of events in use cases of a requirements specification document
+How product owner teams scale agile methods to large distributed enterprises	EMSE15_26	yes	yes	na	grounded theory	
+How the Apache community upgrades dependencies: an evolutionary study	EMSE15_27	yes	no			
+Link analysis algorithms for static concept location: an empirical assessment	EMSE15_28	yes	yes	both	tasks summarized, but different systems not	concept location
+Management of community contributions	EMSE15_29	yes	no			
+A Large-Scale Empirical Study of the Relationship between Build Technology and Build Maintenance	EMSE15_3	yes	no			
+Mining software repair models for reasoning on the search space of automated program fixing	EMSE15_30	yes	no			
+Modelling the ‘hurried’ bug report reading process to summarize bug reports	EMSE15_31	yes	yes	a	average quality of rating	rating of generated bug report summaries
+Multi-objective ant colony optimization for requirements selection	EMSE15_32	yes	no			
+Object-oriented software extensions in practice	EMSE15_33	yes	no			
+On rapid releases and software testing: a case study and a semi-systematic literature review	EMSE15_34	yes	yes	na	interview with one employee to triangulate automated findings	
+Optimising agile development practices for the maintenance operation: nine heuristics	EMSE15_35	yes	yes	na	data collection of every-day work over a year	
+Recommending reference API documentation	EMSE15_36	yes	yes	a	sum of estimation of usefulness	estimation of usefulness of KI
+Semi-automatic selection of primary studies in systematic literature reviews: is it reasonable?	EMSE15_37	yes	no			
+Should I follow this fault localization tool’s output?	EMSE15_38	yes	no			
+Software requirements prioritization and selection using linguistic tools and constraint solvers—a controlled experiment	EMSE15_39	yes	yes	a	"average time; % of correct answers"	requirement prioritization and selection
+A practical guide to controlled experiments of software engineering tools with human participants	EMSE15_4	yes	no			
+Studying the relationship between logging characteristics and the code quality of platform software	EMSE15_40	yes	no			
+Supporting and accelerating reproducible empirical research in software evolution and maintenance using TraceLab Component Library	EMSE15_41	yes	no			
+The impact of imperfect change rules on framework API evolution identification: an empirical study	EMSE15_42	yes	yes	a	precision of finding replaced methods (number found divided by total number of methods to replace)	finding corresponding methods after software update
+The kanban approach, between agility and leanness: a systematic review	EMSE15_43	yes	no			
+Towards a decision-making structure for selecting a research design in empirical software engineering	EMSE15_44	no	no			
+Towards improving statistical modeling of software engineering data: think locally, act globally!	EMSE15_45	yes	no			
+Transfer learning in effort estimation	EMSE15_46	yes	no			
+UML model refactoring: a systematic literature review	EMSE15_47	yes	no			
+Understanding the impact of rapid releases on software quality	EMSE15_48	yes	no			
+Understanding the Influence of User Participation and Involvement on System Success – a Systematic Mapping Study	EMSE15_49	yes	no			
+Achieving scalable mutation-based generation of whole test suites	EMSE15_5	yes	no			
+Visual GUI testing in practice: challenges, problemsand limitations	EMSE15_50	yes	yes	na	observed effect of new with automatically collected data	
+An elicitation instrument for operationalising GQM+Strategies (GQM+S-EI)	EMSE15_6	yes	no			
+An empirical comparison of model-based and capture and replay approaches for performance testing	EMSE15_7	yes	yes	both	3 different kinds of tasks, too different for aggregation?	
+An empirical study on the importance of source code entities for requirements traceability	EMSE15_8	yes	yes	a	average fixation times per source code entity	verification tasks
+An experiment on the effectiveness and efficiency of exploratory testing	EMSE15_9	yes	yes	a	sum of defects in fixed length session	testing session to find defects
+An empirical study of software release notes	EMSE2016_1	yes	no			
+Breathing ontological knowledge into feature model synthesis: an empirical study	EMSE2016_10	yes	no			
+Assessing the impact of real-time machine translation on multilingual meetings in global software projects	EMSE2016_11	yes	yes	s, but tasks are too different to be combined	Controlled study with real-time ML translations, two types of tasks	Requirements, release planning discussions
+Code clones and developer behavior: results of two surveys of the clone research community	EMSE2016_12	yes	yes	na	Surveys	
+A survey on the use of topic models when mining software repositories	EMSE2016_13	yes	no			
+On the detection of custom memory allocators in C binaries	EMSE2016_14	yes	no			
+Perspectives on refactoring planning and practice: an empirical study	EMSE2016_15	yes	yes	na	survey	
+Development nature matters: An empirical study of code clones in JavaScript applications	EMSE2016_16	yes	no			
+Weighing lexical information for software clustering in the context of architecture recovery	EMSE2016_17	yes	no			
+A field study of how developers locate features in source code	EMSE2016_18	yes	no?		Indirect human study: analyzed logs of IDE and search behavior	
+What Java developers know about compatibility, and why this matters	EMSE2016_19	yes	yes	na	survey	
+An empirical study of integration activities in distributions of open source software	EMSE2016_2	yes	yes	na	Feedback from three maintainers, only a tiny part	
+Does the level of detail of UML diagrams affect the maintainability of source code?: a family of experiments	EMSE2016_20	yes	yes	av	Family of experiments: how UML aids comprehensibility/modifiabilty, two systems with multiple tasks	
+Experimentation with dynamic simulation models in software engineering: planning and reporting guidelines	EMSE2016_21	yes	no			
+Continuously mining distributed version control systems: an empirical study of how Linux uses Git	EMSE2016_22	yes	no			
+Assessing refactorings for usability in e-commerce applications	EMSE2016_23	yes	yes	s	Analysis and dicsussion on the effect of individual refactoring tasks (in this case probably necessary)	Various refactoring task for higher usability
+Exploring the costs of technical debt management – a case study	EMSE2016_24	yes	no			
+Game of detections: how are security vulnerabilities discovered in the wild?	EMSE2016_25	yes	yes	na	survey	
+Scalable data structure detection and classification for C/C++ binaries	EMSE2016_26	yes	no			
+The impact of tangled code changes on defect prediction models	EMSE2016_27	yes	no			
+A contextual approach towards more accurate duplicate bug report detection and ranking	EMSE2016_28	yes	no			
+Preprocessor-based variability in open-source and industrial software systems: An empirical study	EMSE2016_29	yes	no			
+Improving the performance of OCL constraint solving with novel heuristics for logical operations: a search-based approach	EMSE2016_3	yes	no			
+Evaluating the impact of design pattern and anti-pattern dependencies on changes and faults	EMSE2016_30	yes	no			
+Automated bug assignment: Ensemble-based machine learning in large scale industrial contexts	EMSE2016_31	yes	no			
+An in-depth study of the promises and perils of mining GitHub	EMSE2016_32	yes	no			
+Studying just-in-time defect prediction using cross-project models	EMSE2016_33	yes	no			
+Automatic identifier inconsistency detection using code dictionary	EMSE2016_34	yes	yes	na	interview, only part of the study	
+Archetypal personalities of software engineers and their work preferences: a new perspective for empirical studies	EMSE2016_35	yes	no			
+An automated software reliability prediction system for safety critical software	EMSE2016_36	yes	yes	both	"Tool evaluation, multiple ""tests"" with subtasks, discussion based on tests; 2 different tasks (small and large) per condition, but each task consisted of different number of test units)"	reading software requirements specification, mapping defect to original, assessing software reliability (Sec. 10.3.3)
+Mining architectural violations from version history	EMSE2016_37	yes	no			
+An empirical study of the textual similarity between source code and source code summaries	EMSE2016_38	yes	yes	na	questionnaire	
+Analyzing and automatically labelling the types of user issues that are raised in mobile app reviews	EMSE2016_39	yes	no			
+Empirical assessment of machine learning-based malware detectors for Android	EMSE2016_4	yes	no			
+Fresh apps: an empirical study of frequently-updated mobile apps in the Google play store	EMSE2016_40	yes	no			
+An empirical study of the impact of modern code review practices on software quality	EMSE2016_41	yes	no			
+Studying high impact fix-inducing changes	EMSE2016_42	yes	no			
+On the use of many quality attributes for software refactoring: a many-objective search-based software engineering approach	EMSE2016_43	yes	no			
+Open innovation in software engineering: a systematic mapping study	EMSE2016_44	yes	no			
+Performance variability in software product lines: proposing theories from a case study	EMSE2016_45	yes	no			
+An automatic method for assessing the versions affected by a vulnerability	EMSE2016_46	yes	no			
+Coevolution of variability models and related software artifacts	EMSE2016_47	yes	no			
+Prompter: Turning the IDE into a self-confident programming assistant	EMSE2016_48	yes	yes	both	Results and discussion on a single task basis (but not subtask)	1 Maintanence + 1 implementation with multiple subtasks
+Studying the needed effort for identifying duplicate issues	EMSE2016_49	yes	no			
+An empirical examination of the prevalence of inhibitors to the parallelizability of open source software systems	EMSE2016_5	yes	no			
+A comparative study of many-objective evolutionary algorithms for the discovery of software architectures	EMSE2016_50	yes	no			
+What are mobile developers asking about? A large scale study using stack overflow	EMSE2016_51	yes	no			
+Value-cognitive boosting with a support vector machine for cross-project defect prediction	EMSE2016_52	yes	no			
+From Aristotle to Ringelmann: a large-scale analysis of team productivity and coordination in Open Source Software projects	EMSE2016_53	yes	no			
+Quantifying structural attributes of system decompositions in 28 feature-oriented software product lines	EMSE2016_54	yes	no			
+Change-based test selection: an empirical evaluation	EMSE2016_55	yes	no			
+On the unreliability of bug severity data	EMSE2016_56	yes	no			
+An experiment on the impact of transparency on the effectiveness of requirements documents	EMSE2016_57	yes	yes	na	questionnaire	Read requirements, answer questionnaire
+Large-scale information retrieval in software engineering - an experience report from industrial application	EMSE2016_58	yes	no			
+Understanding and addressing exhibitionism in Java empirical research about method accessibility	EMSE2016_59	yes	no			
+Comparing and experimenting machine learning techniques for code smell detection	EMSE2016_6	yes	no			
+Inferring extended finite state machine models from software executions	EMSE2016_60	yes	no			
+Cheap talk, cooperation, and trust in global software engineering	EMSE2016_61	yes	no			
+Improving bug management using correlations in crash reports	EMSE2016_62	yes	no			
+An exploratory study of api changes and usages based on apache and eclipse ecosystems	EMSE2016_63	yes	no			
+Towards building a universal defect prediction model with rank transformed predictors	EMSE2016_64	yes	no			
+Linguistic antipatterns: what they are and how developers perceive them	EMSE2016_7	yes	yes	both	Online test with two groups, results and discussion are largely on individual results, some aggregation	Check for linguistic anti-patterns in code
+The effects of visualization and interaction techniques on feature model configuration	EMSE2016_8	yes	yes	s	Tool evaluation, simple and complex task for each option (with/without tool). Results and discussion on these individual tasks	Comprehension and change tasks
+Using text clustering to predict defect resolution time: a conceptual replication and an evaluation of prediction accuracy	EMSE2016_9	yes	no			
+An empirical study of unspecified dependencies in make-based build systems	EMSE2017_10	yes	no			
+The Debsources Dataset: two decades of free and open source software	EMSE2017_11	yes	no			
+Productivity paradoxes revisited	EMSE2017_12	yes	no			
+Raters’ reliability in clone benchmarks construction	EMSE2017_13	yes	yes	av	Empirical study to investigate accuracy of user judgments about clones, 500+ code snippets, discussions only on group averages (e.g., expert vs. non-expert)	Code clone: yes or no?
+Characterizing logging practices in Java-based open source software projects – a replication study in Apache Software Foundation	EMSE2017_14	yes	no			
+Predicting the delay of issues with due dates in software projects	EMSE2017_15	yes	no			
+Exception handling bug hazards in Android	EMSE2017_16	yes	yes	na	Survey of developers, only part of the paper	
+Empirical evaluation of the effects of experience on code quality and programmer productivity: an exploratory study	EMSE2017_17	yes	yes	s	10 quasi-experiments in industry in practice	 2 hours for two test-last development tasks
+Estimating the number of remaining links in traceability recovery	EMSE2017_18	yes	no			
+Naming the pain in requirements engineering	EMSE2017_19	yes	no			
+On the long-term use of visual gui testing in industrial practice: a case study	EMSE2017_2	yes	yes	na	semi-structured interviews, grounded theory	
+Tracing distributed collaborative development in apache software foundation projects	EMSE2017_20	yes	yes	na	Survey of developers, only part of the paper	
+On the correlation between size and metric validity	EMSE2017_21	yes	no			
+Tackling the term-mismatch problem in automated trace retrieval	EMSE2017_22	yes	no			
+An empirical study of emergency updates for top android mobile apps	EMSE2017_23	yes	no			
+Global vs. local models for cross-project defect prediction	EMSE2017_24	yes	no			
+How programmers read regular code: a controlled experiment using eye tracking	EMSE2017_25	yes	yes	s	Eye-tracking experiment of program comprehension, 	
+Do Programmers do Change Impact Analysis in Debugging?	EMSE2017_26	yes	yes	na	Exploratory study, survey	
+Why and how developers fork what from whom in GitHub	EMSE2017_27	yes	yes	na	surveys	
+Evolutionary trends of developer coordination: a network approach	EMSE2017_28	yes	no			
+Effectiveness and efficiency of a domain-specific language for high-performance marine ecosystem simulation: a controlled experiment	EMSE2017_29	yes	yes	both	A bit unclear. Seems only a single task for each condition.	Multiple tasks: comprehension, feedback, maintainence
+Evaluating code complexity triggers, use of complexity measures and the influence of code complexity on maintenance time	EMSE2017_3	yes	yes	na	online survey	
+On negative results when using sentiment analysis tools for software engineering research	EMSE2017_30	yes	no		Used human evaluation as ground truth	
+Stochastic actor-oriented modeling for studying homophily and social influence in OSS projects	EMSE2017_31	yes	no			
+Search-based detection of model level changes	EMSE2017_32	yes	no			
+Generating valid grammar-based test inputs by means of genetic programming and annotated grammars	EMSE2017_33	yes	no			
+To log, or not to log: using heuristics to identify mandatory log events – a controlled experiment	EMSE2017_34	yes	yes	Both	Some results and discussions on group basis, some individual task artifacts	Identify MLE (mandatory log events)
+Robust Statistical Methods for Empirical Software Engineering	EMSE2017_35	yes	no			
+On the pragmatic design of literature studies in software engineering: an experience-based guideline	EMSE2017_36	yes	no			
+Model comprehension for security risk assessment: an empirical comparison of tabular vs. graphical representations	EMSE2017_37	yes	yes	av	Group/experiment averages	Model comprehension for secruity risk assessment
+Will this localization tool be effective for this bug? Mitigating the impact of unreliability of information retrieval based bug localization tools	EMSE2017_38	yes	no			
+Recurring opinions or productive improvements—what agile teams actually discuss in retrospectives	EMSE2017_39	yes	yes	na	longitudenal case study of retrospectives	
+Multi-objective reverse engineering of variability-safe feature models based on code dependencies of system variants	EMSE2017_4	yes	no			
+An initial analysis of software engineers’ attitudes towards organizational change	EMSE2017_40	yes	yes	na	questionnaire	
+Towards just-in-time suggestions for log changes	EMSE2017_41	yes	no			
+Which log level should developers choose for a new logging statement?	EMSE2017_42	yes	no			
+Zen-ReqOptimizer: a search-based approach for requirements assignment optimization	EMSE2017_43	yes	no			
+Studying the urgent updates of popular games on the Steam platform	EMSE2017_44	yes	no			
+Investigating the use of moving windows to improve software effort prediction: a replicated study	EMSE2017_45	yes	no			
+FOREPOST: finding performance problems automatically with feedback-directed learning software testing	EMSE2017_46	yes	no			
+Documenting and sharing software knowledge using screencasts	EMSE2017_47	yes	yes	na	Interviews	
+Semantic topic models for source code analysis	EMSE2017_48	yes	no		Used human evaluation	
+An empirical study for software change prediction using imbalanced data	EMSE2017_49	yes	no			
+Reengineering legacy applications into software product lines: a systematic mapping	EMSE2017_5	yes	no			
+Automatic repair of real bugs in java: a large-scale experiment on the defects4j dataset	EMSE2017_50	yes	no			
+Are delayed issues harder to resolve? Revisiting cost-to-fix of defects throughout the lifecycle	EMSE2017_51	yes	no			
+Negative results for software effort estimation	EMSE2017_52	yes	no			
+A robust multi-objective approach to balance severity and importance of refactoring opportunities	EMSE2017_53	yes	no			
+Curating GitHub for engineered software projects	EMSE2017_54	yes	no			
+Do bugs foreshadow vulnerabilities? An in-depth study of the chromium project	EMSE2017_55	yes	no			
+Learning to rank code examples for code search engines	EMSE2017_56	yes	no			
+A study of the relation of mobile device attributes with the user-perceived quality of Android apps	EMSE2017_57	yes	no			
+Requirements reuse and requirement patterns: a state of the practice survey	EMSE2017_59	yes	yes	na	exploratory survey study	
+“Failures” to be celebrated: an analysis of major pivots of software startups	EMSE2017_6	yes	no			
+An empirical study of supplementary patches in open source projects	EMSE2017_60	yes	no			
+A stability assessment of solution adaptation techniques for analogy-based software effort estimation	EMSE2017_61	yes	no			
+Identifying the implied: Findings from three differentiated replications on the use of security requirements templates	EMSE2017_62	yes	yes	Both	Multiple studies, With/without suggested template, some data on individual use cases (tasks), some experiment averages	Identify security requirements
+A detailed investigation of the effectiveness of whole test suite generation	EMSE2017_64	yes	no			
+Fragile base-class problem, problem?	EMSE2017_65	yes	yes	na	Survey, only part	
+Group versus individual use of power-only EPMcreate as a creativity enhancement technique for requirements elicitation	EMSE2017_66	yes	yes	na	Different group sizes to evaluate its effect on idea generation, also a survey	Generate ideas for requirements
+fine-GRAPE: fine-grained APi usage extractor – an approach and dataset to investigate API usage	EMSE2017_67	yes	no			
+Eye movements in software traceability link recovery	EMSE2017_68	yes	yes	both	Analysis on individual bugs and the overall average	8 bug localizations
+A repository of Unix history and evolution	EMSE2017_69	yes?	no			
+Extracting and analyzing time-series HCI data from screen-captured task videos	EMSE2017_7	yes	no			
+Case study on which relations to use for clustering-based software architecture recovery	EMSE2017_70	yes	no			
+Achieving traceability in large scale continuous integration and delivery deployment, usage and validation of the eiffel framework	EMSE2017_71	yes	yes	na	Different interviews	
+Review participation in modern code review	EMSE2017_72	yes	no			
+An industry experiment on the effects of test-driven development on external quality and productivity	EMSE2017_73	yes	yes	both	Discussion on averages over entire task, minor discussions of subtasks	Three tasks with multiple implementation subtasks: 2 TDD vs. 1 ITLD
+License usage and changes: a large-scale study on gitHub	EMSE2017_74	yes	no			
+Defect propagation at the project-level: results and a post-hoc analysis on inspection efficiency	EMSE2017_75	yes	no			
+Analysis of license inconsistency in large collections of open source projects	EMSE2017_76	yes	no			
+What do developers search for on the web?	EMSE2017_77	yes	yes	na	Part: survey	
+The structure and dynamics of knowledge network in domain-specific Q&A sites: a case study of stack overflow	EMSE2017_78	yes	no			
+Data Transformation in Cross-project Defect Prediction	EMSE2017_79	yes	no			
+A large-scale study of architectural evolution in open-source software systems	EMSE2017_8	yes	no			
+Automated training-set creation for software architecture traceability problem	EMSE2017_80	yes	no			
+An experimental search-based approach to cohesion metric evaluation	EMSE2017_81	yes	no			
+The last line effect explained	EMSE2017_9	yes	yes	na	interviews	
+WCET analysis of modern processors using multi-criteria optimisation	ESE11_16(1)_1	yes	no			
+Evaluating improvements to a meta-heuristic search for constrained interaction testing	ESE11_16(1)_2	yes	no			
+A study of the bi-objective next release problem	ESE11_16(1)_3	yes	no			
+Using search-based algorithms for Ajax event sequence generation during testing	ESE11_16(1)_4	yes	no			
+Design evolution metrics for defect prediction in object oriented systems	ESE11_16(1)_5	yes	no			
+A multiple comparative study of test-with development product changes and their effects on team speed and product quality	ESE11_16(2)_1	yes	no			
+Investigating the use of Support Vector Regression for web effort estimation	ESE11_16(2)_2	yes	no			
+Reporting computing projects through structured abstracts: a quasi-experiment	ESE11_16(2)_3	yes	yes	a	each participant saw one structured and one conventional abstract, then clarity and content were assessed on a scale	it is close to program comprehension (i.e., the abstracts could also be source code)
+Behavioral economics in software quality engineering	ESE11_16(2)_4	yes	yes	na	effect of different quality criteria on motivation and quality rating of software product is evaluated	
+The role of non-exact replications in software engineering experiments	ESE11_16(3)_1	yes	no			
+Studying the co-evolution of production and test code in open source and industrial developer test processes through repository mining	ESE11_16(3)_2	yes	no			
+A method for evaluating rigor and industrial relevance of technology evaluations	ESE11_16(3)_3	yes	no			
+An empirical study on the influence of pattern roles on change-proneness	ESE11_16(3)_4	yes	no			
+Using grounded theory to study the experience of software development	ESE11_16(4)_1	no	no			
+Qualitative research on software development: a longitudinal case study methodology	ESE11_16(4)_2	yes	partially	na	purely qualitative based on observation and interviews	
+Getting the whole story: an experience report on analyzing data elicited using the war stories procedure	ESE11_16(4)_3	yes	yes	na	purely qualitative	think-aloud protocols of stories about novice/expert requirements engineer
+The search for a research method for studying OSS process innovation	ESE11_16(4)_4	no	no			
+From monolithic to component-based performance evaluation of software architectures	ESE11_16(5)_1	yes	yes	task as independent variable	they used different tasks, but defined them as indepedent variable in their study design	tasks were ratings of different designs, in a second study also two different tasks and different designs
+Characteristics of multiple-component defects and architectural hotspots: a large system case study	ESE11_16(5)_2	yes	no			
+A practice-driven systematic review of dependency analysis solutions	ESE11_16(5)_3	yes	no			
+Assessing architectural evolution: a case study	ESE11_16(5)_4	yes	no			
+A field study of API learning obstacles	ESE11_16(6)_1	yes	yes	na	qualitative study	
+Eliciting user requirements using Appreciative inquiry	ESE11_16(6)_2	yes	yes	na	"approach to compare appreciative inquiry with brainstorming; no tasks were involved"	
+Using structural and textual information to capture feature coupling in object-oriented software	ESE11_16(6)_3	yes	no			
+Calculation and optimization of thresholds for sets of software metrics	ESE11_16(6)_4	yes	no			
+A replicated assessment and comparison of adaptation techniques for analogy-based effort estimation	ESE12_17(1)_1	yes	no			
+A permutation test based on regression error characteristic curves for software cost estimation models	ESE12_17(1)_2	yes	no			
+On the reproducibility of empirical software engineering studies based on data retrieved from development repositories	ESE12_17(1)_3	no	no			
+On the dataset shift problem in software engineering prediction models	ESE12_17(1)_4	partly	no			
+Validity and reliability of evaluation procedures in comparative studies of effort prediction models	ESE12_17(1)_5	partly	no			
+The difficulties of building generic reliability models for software	ESE12_17(1)_6	no	no			
+Location pairs: a test coverage metric for shared-memory concurrent programs	ESE12_17(3)_1	yes	no			
+A qualitative human-centric evaluation of flexibility in middleware implementations	ESE12_17(3)_2	yes	yes	both		
+The ability of object-oriented metrics to predict change-proneness: a meta-analysis	ESE12_17(3)_3	yes	no			
+An exploratory study of the impact of antipatterns on class change- and fault-proneness	ESE12_17(3)_4	yes	no			
+Program comprehension of domain-specific and general-purpose languages: comparison using a family of experiments	ESE12_17(3)_5	yes	yes	task as independent variable	11 different tasks, but defined as independent variable	family of three studies, each had the same five independent variables, just implemented differently
+Replication of an experiment on linguistic tool support for consolidation of requirements from multiple sources	ESE12_17(3)_6	yes	yes	a	aggregated over all tasks	"requirement consolidation (""as many as possible"""
+Analyzing and mining a code search engine usage log	ESE12_17(4)_1	yes	no			
+Refining code ownership with synchronous changes	ESE12_17(4)_2	yes	no			
+On the use of calling structure information to improve fault prediction	ESE12_17(4)_3	yes	no			
+The evolution of Java build systems	ESE12_17(4)_4	yes	no			
+Evaluating defect prediction approaches: a benchmark and an extensive comparison	ESE12_17(4)_5	yes	no			
+Time variance and defect prediction in software projects	ESE12_17(4)_6	yes	no			
+Clones: what is that smell?	ESE12_17(4)_7	yes	no			
+Developing a grounded theory to explain the practices of self-organizing Agile teams	ESE12_17(6)_1	yes	yes	na	qualitative study	
+Computer-mediated communication to support distributed requirements elicitations and negotiations tasks	ESE12_17(6)_2	yes	no			
+Strengths and barriers behind the successful agile deployment—insights from the three software intensive companies in Finland	ESE12_17(6)_3	yes	yes	na	qualitative study	
+What should developers be aware of? An empirical study on the directives of API documentation	ESE12_17(6)_4	no	no			
+Software development effort prediction of industrial projects applying a general regression neural network	ESE12_17(6)_5	yes	no			
+Kernel methods for software effort estimation	ESE13_18(1)_1	yes	no			
+Can traditional fault prediction models be used for vulnerability prediction?	ESE13_18(1)_2	yes	no			
+Effort estimation of FLOSS projects: a study of the Linux kernel	ESE13_18(1)_3	yes	no			
+An empirical study of the state of the practice and acceptance of model-driven engineering in four industrial cases	ESE13_18(1)_4	yes	yes	na	qualitative study	
+All complaints are not created equal: text analysis of open source software defect reports	ESE13_18(1)_5	yes	no			
+A study of methods for textual satisfaction assessment	ESE13_18(1)_6	yes	yes	na	three reviewers should validate requirements, which was the baseline to compare 4 other approaches with	
+Integrating information retrieval, execution and link analysis algorithms to improve feature location in software	ESE13_18(2)_1	yes	no			
+Understanding Ajax applications by connecting client and server-side execution traces	ESE13_18(2)_2	yes	yes	a	summary of tasks	
+The impact of identifier style on effort and comprehension	ESE13_18(2)_3	yes	yes	a	eye-tracking data of aggregated tasks	different tasks (e.g., finding code elements, memorizing/recall)
+Understanding privacy policies	ESE13_18(2)_4	yes	no			
+Studying the impact of social interactions on software quality	ESE13_18(2)_5	yes	no			
+Predicting the Flow of Defect Correction Effort using a Bayesian Network Model	ESE13_18(3)_1	yes	no			
+The limited impact of individual developer data on software defect prediction	ESE13_18(3)_2	yes	no			
+Using tabu search to configure support vector regression for effort estimation	ESE13_18(3)_3	yes	no			
+GPGPU test suite minimisation: search based software engineering performance improvement using graphics cards	ESE13_18(3)_4	yes	no			
+Parameter tuning or default values? An empirical investigation in search-based software engineering	ESE13_18(3)_5	yes	no			
+On the value of outlier elimination on software effort estimation research	ESE13_18(4)_1	yes	no			
+Do background colors improve program comprehension in the #ifdef hell?	ESE13_18(4)_2	yes	yes	s	results were discussed for each tassk	tasks were static (location of code) and maintenance
+STAMINA: a competition to encourage the development and assessment of software model inference techniques	ESE13_18(4)_3	yes	no			
+Performance and reliability prediction for evolving service-oriented software systems	ESE13_18(4)_4	yes	no			
+Software model synthesis using satisfiability solvers	ESE13_18(4)_5	yes	no			
+On the impact of software evolution on software clustering	ESE13_18(5)_1	yes	no			
+Using structural and semantic measures to improve software modularization	ESE13_18(5)_2	yes	yes	s	a few selected cases were discussed individually	rating of meaningfulness
+Studying re-opened bugs in open source software	ESE13_18(5)_3	yes	no			
+Integrating conceptual and logical couplings for change impact analysis in software	ESE13_18(5)_4	yes	no			
+What your plug-in test suites really test: an integration perspective on test suite understanding	ESE13_18(5)_5	yes	no			
+Software Bertillonage	ESE13_18(6)_1	yes	no			
+How (and why) developers use the dynamic features of programming languages: the case of smalltalk	ESE13_18(6)_2	yes	no			
+Automated topic naming	ESE13_18(6)_3	yes	no			
+How do open source communities blog?	ESE13_18(6)_4	yes	no			
+Adoption and use of Java generics	ESE13_18(6)_5	yes	no			
+"Don’t Touch My Code!
+Examining the Effects of Ownership on Software Quality"	FSE11_1	yes	no			
+Proving Programs Robust	FSE11_10	yes	no			
+Checking Conformance of a Producer and a Consumer	FSE11_11	yes	no			
+Managing Performance vs. Accuracy Trade-offs With Loop Perforation	FSE11_12	yes	no			
+Partial Replay of Long-Running Applications	FSE11_13	yes	no			
+Mitigating the Confounding Effects of Program Dependences for Effective Fault Localization	FSE11_14	yes	no			
+Fault Localization for Data-Centric Programs	FSE11_15	yes	no			
+Proactive Detection of Collaboration Conflicts	FSE11_16	yes	no			
+ADDiff: Semantic Differencing for Activity Diagrams	FSE11_17	yes	no			
+Semistructured Merge: Rethinking Merge in Revision Control Systems	FSE11_18	yes	no			
+Testing Software In Age Of Data Privacy: A Balancing Act	FSE11_19	yes	no			
+ReLink: Recovering Links between Bugs and Changes	FSE11_2	yes	no			
+Strong Higher Order Mutation-Based Test Data Generation	FSE11_20	yes	no			
+Improved Multithreaded Unit Testing	FSE11_21	yes	no			
+Taming Uncertainty in Self-Adaptive Software	FSE11_22	yes	no			
+Version-consistent Dynamic Reconfiguration of Component-based Distributed Systems	FSE11_23	yes	no			
+On Software Component Co-Installability	FSE11_24	no	no			
+Leveraging Existing Instrumentation to Automatically Infer Invariant-Constrained Models	FSE11_25	yes	yes	na	only qualtiative analysis, evaluation is just a minor part of the paper	
+Path Exploration based on Symbolic Output	FSE11_26	yes	no			
+Synthesizing Data-structure Manipulations from Storyboards	FSE11_27	yes	no			
+High-Impact Defects: A Study of Breakage and Surprise Defects	FSE11_28	yes	no			
+Micro Interaction Metrics for Defect Prediction	FSE11_29	yes	no			
+How Do Fixes Become Bugs?	FSE11_3	yes	no			
+BugCache for Inspections : Hit or Miss?	FSE11_30	yes	no			
+Inferring Data Polymorphism in Systems Code	FSE11_31	yes	no			
+Boosting the Performance of Flow-sensitive Points-to Analysis using Value Flow	FSE11_32	yes	no			
+On the Congruence of Modularity and Code Coupling	FSE11_33	yes	no			
+Fuzzy Set and Cache-based Approach for Bug Triaging	FSE11_34	yes	no			
+CSSL: A Logic for Specifying Conditional Scenarios	FSE11_4	yes	no			
+Using an SMT Solver for Interactive Requirements Prioritization	FSE11_5	yes	no			
+Modeling the HTML DOM and Browser API in Static Analysis of JavaScript Web Applications	FSE11_6	yes	no			
+The Onion Patch: Migration in Open Source Ecosystems	FSE11_7	yes	no			
+Does Adding Manpower Also Affect Quality? An Empirical, Longitudinal Analysis	FSE11_8	yes	no			
+Effective Communication of Software Development Knowledge Through Community Portals	FSE11_9	yes	yes	na	grounded theory	
+History Slicing: Assisting Code-Evolution Tasks	FSE12_?	yes	yes	s, but only one task	3 tasks x 2 conditions, but participants completed only one task per condition	3 tasks on code evolution
+Assessing the Value of Branches with What-if Analysis	FSE12_?	yes	yes	a	asked developers about merge conflicts and combined the data	collected information about how much time developers spend with branches
+A Field Study of Refactoring Challenges and Benefits	FSE12_?	yes	yes	na	interviews of developers regarding refactorings	
+How Do Software Engineers Understand Code Changes? An Exploratory Study in Industry	FSE12_?	yes	yes	na	survey about whether certain information is necessary for code changes	
+Improving Software Developers' Fluency by Recommending Development Environment Commands	FSE12_?	yes	yes	na	survey about usefulness about recommendations	
+"Recalling the ""Imprecision"" of Cross-Project Defect Prediction"	FSE12_?	yes	no			
+A Case Study of Cross-System Porting in Forked Projects	FSE12_1	yes	no			
+Detecting and Analyzing Insecure Component Usage	FSE12_10	yes	no			
+Do Crosscutting Concerns Cause Modularity Problems?	FSE12_11	yes	no			
+DTAM: Dynamic Taint Analysis of Multi-threaded Programs for Relevancy	FSE12_12	yes	no			
+Green: Reducing, Reusing and Recycling Constraints in Program Analysis	FSE12_13	yes	no			
+How Do Developers React to API Deprecation? The Case of a Smalltalk Ecosystem	FSE12_14	yes	no			
+How do developers use parallel libraries?	FSE12_15	yes	no			
+Mining the Execution History of a Software System to Infer the Best Time for its Adaptation	FSE12_16	yes	no			
+Multi-layered Approach for Recovering Links between Bug Reports and Fixes	FSE12_17	yes	no			
+Predicting Null-Pointer Dereferences in Concurrent Programs	FSE12_18	yes	no			
+Retargeting Android Applications to Java Bytecode	FSE12_19	yes	no			
+An Industrial Study on the Risk of Software Changes	FSE12_2	yes	no			
+Rubicon: Bounded Verification of Web Applications	FSE12_20	yes	no			
+Scalable Test Data Generation from Multidimensional Models	FSE12_21	yes	no			
+Searching Connected API Subgraph via Text Phrases	FSE12_22	yes	no			
+Seeking the Ground Truth: A Retroactive Study on the Evolution and Migration of Software Libraries	FSE12_23	yes	no			
+Test Input Generation Using Dynamic Programming	FSE12_24	yes	no			
+Testing Mined Specifications	FSE12_25	yes	no			
+Understanding Myths and Realities of Test-Suite Evolution	FSE12_26	yes	no			
+Variability Points and Design Pattern Usage in Architectural Tactics	FSE12_27	yes	no			
+Who is going to Mentor Newcomers in Open Source Projects?	FSE12_28	yes	no			
+Asynchronous Programs with Prioritized Task-Buffers	FSE12_3	yes	no			
+AUSUM: Approach for Unsupervised bug report SUMmarization	FSE12_4	yes	no			
+Automated Concolic Testing of Smartphone Apps	FSE12_5	yes	no			
+Automated Extraction of Security Policies from Natural-Language Software Documents	FSE12_6	yes	no			
+Automating Presentation Changes in Dynamic Web Applications via Collaborative Hybrid Analysis	FSE12_7	yes	no			
+CarFast: Achieving Higher Statement Coverage Faster	FSE12_8	yes	no			
+Conditional Model Checking: A Technique to Pass Information between Verifiers	FSE12_9	yes	no			
+Feature Model Extraction from Large Collections of Informal Product Descriptions	FSE13_?	yes	yes	s	highlighted cases for their approach	different ratings of features or feature groups of feature models
+Explaining Inconsistent Code	FSE13_?	yes	yes	s	six tasks, each analyzed individually	"participants should locate faults; worse performance for one task was rationalized away; should have been several task for this one special case"
+Adequate Monitoring of Service Compositions	FSE13_?	yes	no			
+Sample Size vs. Bias in Defect Prediction	FSE13_?	yes	no			
+Preventing Database Deadlocks in Applications	FSE13_?	yes	no			
+Incrementally Synthesizing Controllers from Scenario-Based Product Line Specifications	FSE13_?	yes	no			
+Searching for Better Configurations: A Rigorous Approach to Clone Evaluation	FSE13_?	yes	no			
+A Statistical Semantic Language Model for Source Code	FSE13_1	yes	no			
+Con2colic Testing	FSE13_10	yes	no			
+Convergent Contemporary Software Peer Review Practices	FSE13_11	yes	no			
+Crossing the Gap from Imperative to Functional Programming through Refactoring	FSE13_12	yes	no			
+Differential Assertion Checking	FSE13_13	yes	no			
+Distributed Program Tracing	FSE13_14	yes	no			
+Diversity in Software Engineering Research	FSE13_15	yes	no			
+Do All Task Dependencies Require Coordination? The Role of Task Properties in Identifying Critical Coordination 	FSE13_16	yes	no			
+Dynodroid: An Input Generation System for Android Apps	FSE13_17	yes	no			
+Effective Dynamic Detection of Alias Analysis Errors	FSE13_18	yes	no			
+Efficiency and early fault detection with lower and higher strength combinatorial interaction testing	FSE13_19	yes	no			
+An Empirical Analysis of the Co-evolution of Schema and Code in Database Applications	FSE13_2	yes	no			
+Enhancing Symbolic Execution with Built-In Term Rewriting and Constrained Lazy Initialization	FSE13_20	yes	no			
+Finding Incorrect Compositions of Atomicity	FSE13_21	yes	no			
+Identifying Message Flow in Distributed Event-Based Systems	FSE13_22	yes	no			
+Improving Trace Accuracy through Data-Driven Configuration and Composition of Tracing Features	FSE13_23	yes	no			
+Inferring Project-Specific Bug Patterns for Detecting Sibling Bugs	FSE13_24	yes	no			
+Jalangi: A Selective Record-Replay and Dynamic Analysis Framework for JavaScript	FSE13_25	yes	no			
+KATCH: High-Coverage Testing of Software Patches	FSE13_26	yes	no			
+Making Offline Analyses Continuous	FSE13_27	yes	no			
+Mining Behavior Models from Enterprise Web Applications	FSE13_28	yes	no			
+Mining Succinct Predicated Bug Signatures	FSE13_29	yes	no			
+API Change and Fault Proneness: A Threat to the Success of Android Apps	FSE13_3	yes	no			
+N-Way Model Merging	FSE13_30	yes	no			
+Practical Static Analysis of JavaScript Applications in the Presence of Frameworks and Libraries	FSE13_31	yes	no			
+Precision Reuse for Efficient Regression Verification	FSE13_32	yes	no			
+Prediction of Atomic Web Services Reliability Based on K-Means Clustering	FSE13_33	yes	no			
+Regression Tests to Expose Change Interaction Errors	FSE13_34	yes	no			
+Scalable Analysis of Variable Software	FSE13_35	yes	no			
+Scalable and Incremental Software Bug Detection	FSE13_36	yes	no			
+Second-Order Constraints in Dynamic Invariant Inference	FSE13_37	yes	no			
+Server Interface Descriptions for Automated Testing of JavaScript Web Applications	FSE13_38	yes	no			
+SPLat: Lightweight Dynamic Analysis for Reducing Combinatorics in Testing Configurable Systems	FSE13_39	yes	no			
+Automated Oracles: An Empirical Study on Cost and Effectiveness	FSE13_4	yes	no			
+Synthesis of Component and Connector Models from Crosscutting Structural Views	FSE13_40	yes	no			
+Termination Proofs from Tests	FSE13_41	yes	no			
+Tightfit: Adaptive Parallelization with Foresight	FSE13_42	yes	no			
+Will You Still Compile Me Tomorrow? Static Cross-Version Compiler Validation	FSE13_43	yes	no			
+Z3-str: A Z3-Based String Solver for Web Application Analysis	FSE13_44	yes	no			
+Bayesian Inference using Data Flow Analysis	FSE13_5	yes	no			
+Boosting Concolic Testing via Interpolation	FSE13_6	yes	no			
+Cachetor: Detecting Cacheable Data to Remove Bloat	FSE13_7	yes	no			
+Cascading Verification: An Integrated Method for Domain-Specific Model Checking	FSE13_8	yes	no			
+Compiling Mockups to Flexible UIs	FSE13_9	yes	no			
+ORBS: Language-Independent Program Slicing	FSE2014_1	yes	no			
+Powering the Static Driver Verifier using Corral	FSE2014_10	yes	no			
+Verifying CTL-Live Properties of Infinite State Models using an SMT Solver	FSE2014_11	yes	no			
+Efficient Runtime-Enforcement Techniques for Policy Weaving	FSE2014_12	yes	no			
+Techniques for Improving Regression Testing in Continuous Integration Development Environments	FSE2014_13	yes	no			
+Balancing Trade-Offs in Test-Suite Reduction	FSE2014_14	yes	no			
+Identifying the Characteristics of Vulnerable Code Changes: An Empirical Study	FSE2014_15	yes	no			
+On the Localness of Software	FSE2014_16	yes	no			
+Learning Natural Coding Conventions	FSE2014_17	yes	no			
+How Should We Measure Functional Sameness from Program Source Code? An Exploratory Study on Java Methods	FSE2014_18	yes	no			
+Enablers, Inhibitors, and Perceptions of Testing in Novice Software Teams	FSE2014_19	yes	yes	na	Qualitative study	
+JSAI: A Static Analysis Platform for JavaScript	FSE2014_2	yes	no			
+The Plastic Surgery Hypothesis	FSE2014_20	yes	no			
+Grail: Context-Aware Fixing of Concurrency Bugs	FSE2014_21	yes	no			
+AI: A Lightweight System for Tolerating Concurrency Bugs	FSE2014_22	yes	no			
+Retrofitting Concurrency for Android Applications through Refactoring	FSE2014_23	yes	no			
+Sherlock: Scalable Deadlock Detection for Concurrent Programs	FSE2014_24	yes	no			
+Search-Based Synthesis of Equivalent Method Sequences	FSE2014_25	yes	no			
+Beyond the Rainbow: Self-Adaptive Failure Avoidance in Configurable Systems	FSE2014_26	yes	no			
+Semantics-Based Obfuscation-Resilient Binary Code Similarity Comparison with Applications to Software Plagiarism Detection	FSE2014_27	yes	no			
+Focus-Shifting Patterns of OSS Developers and Their Congruence with Call Graphs	FSE2014_28	yes	no			
+Feedback Generation for Performance Problems in Introductory Programming Assignments	FSE2014_29	yes	no			
+A Path-Sensitively Sliced Control Flow Graph	FSE2014_3	yes	no			
+How We Get There: A Context-Guided Search Strategy in Concolic Testing	FSE2014_30	yes	no			
+Solving Complex Path Conditions through Heuristic Search on Induced Polytopes	FSE2014_31	yes	no			
+Statistical Symbolic Execution with Informed Sampling	FSE2014_32	yes	no			
+SymJS: Automatic Symbolic Testing of JavaScript Web Applications	FSE2014_33	yes	no			
+Selection and Presentation Practices for Code Example Summarization	FSE2014_34	yes	yes	na	qualitative study	
+Mining Idioms from Source Code	FSE2014_35	yes	no			
+Automatic Generation of Release Notes	FSE2014_36	yes	yes	na	Three studies, used as evaluator for tool output	
+Discovering Refactoring Opportunities in Cascading Style Sheets	FSE2014_37	yes	no			
+SAFEWAPI: Web API Misuse Detector for Web Applications	FSE2014_38	yes	no			
+Building Call Graphs for Embedded Client-Side Code in Dynamic Web Applications	FSE2014_39	yes	no			
+Let's Talk About It: Evaluating Contributions through Discussion in GitHub	FSE2014_4	yes	yes	na	grounded theory/interviews	
+Test Case Purification for Improving Fault Localization	FSE2014_40	yes	no			
+Sketches and Diagrams in Practice	FSE2014_41	yes	yes	na	Qualitative study, survey	
+Architecture Challenges for Internal Software Ecosystems: A Large-Scale Industry Case Study	FSE2014_42	yes	yes	na	interviews, qualitative work	
+Variable-Specific Resolutions for Feature Interactions	FSE2014_43	yes	no			
+An Empirical Study on Program Comprehension with Reactive Programming	FSE2014_44	yes	yes	both	Program comprehension study, reactive vs. OO, 10 programs, between subject, 	Answer questions on program behavior
+Apposcopy: Semantics-Based Detection of Android Malware through Static Analysis	FSE2014_45	yes	no			
+Detecting Energy Bugs and Hotspots in Mobile Apps	FSE2014_46	yes	no			
+EvoDroid: Segmented Evolutionary Testing of Android Apps	FSE2014_47	yes	no			
+Prioritizing the Devices to Test Your App on: A Case Study of Android Game Apps	FSE2014_48	yes	no			
+Improving Oracle Quality by Detecting Brittle Assertions and Unused Inputs in Tests	FSE2014_49	yes	no			
+A Large Scale Study of Programming Languages and Code Quality in Github	FSE2014_5	yes	no			
+On the Efficiency of Automated Testing	FSE2014_50	no	no			
+Automatically Generated Patches as Debugging Aids: A Human Study	FSE2014_51	yes	yes	s	Controlled experiment, between-group design, results and discussions are on individual bugs	Debugging five real bug reports, including failing tests
+An Empirical Analysis of Flaky Tests	FSE2014_52	yes	no			
+Are Mutants a Valid Substitute for Real Faults in Software Testing?	FSE2014_53	yes	no			
+No Issue Left Behind: Reducing Information Overload in Issue Tracking	FSE2014_54	yes	yes	na	grounded theory -> developed tool -> tool validation via interviews	
+Panning Requirement Nuggets in Stream of Software Maintenance Tickets	FSE2014_55	yes	yes	na	Many different experiments, two user studies, but rather qualitative work	
+Learning to Rank Relevant Files for Bug Reports using Domain Knowledge	FSE2014_56	yes	no			
+Developers’ Code Context Models for Change Tasks	FSE2014_57	yes	yes	s	Exploratory study to understand navigation of code when changes are required, 3 different programs. Tasks are discussed individually (probably necessary due to the long-running nature?)	Long running change tasks (>30 minutes)
+Querying Sequential Software Engineering Data	FSE2014_58	yes	no			
+A Foundation for Refactoring C with Macros	FSE2014_59	yes	no			
+Mining Preconditions of APIs in Large-Scale Code Corpus	FSE2014_6	yes	yes	na	Survey, only minor part	
+Vector Abstraction and Concretization for Scalable Detection of Refactorings	FSE2014_60	yes	no			
+FlowTwist: Efficient Context-Sensitive Inside-Out Taint Analysis for Large Codebases	FSE2014_61	yes	no			
+Automatic Mining of Specifications from Invocation Traces and Method Invariants	FSE2014_7	yes	no			
+Software Developers’ Perceptions of Productivity	FSE2014_8	yes	yes	na	survey, observational explorative study	
+Counterexample Guided Abstraction Refinement of Product-Line Behavioural Models	FSE2014_9	yes	no			
+Proactive Self-Adaptation under Uncertainty: A Probabilistic Model Checking Approach	FSE2015_1	yes	no			
+How Developers Search for Code: A Case Study	FSE2015_10	yes	yes	na	survey	
+Tracing Software Developers' Eyes and Interactions for Change Tasks	FSE2015_11	yes	yes	s	Explorative study, investigating navigation behavior of realistic change tasks, >60 minutes, individual discussion of results	Realistic, long-running change tasks
+Assertions Are Strongly Correlated with Test Suite Effectiveness	FSE2015_12	yes	no			
+Test Report Prioritization to Assist Crowdsourced Testing	FSE2015_13	yes	no			
+main.dvi	FSE2015_14	yes	no			
+Questions Developers Ask While Diagnosing Potential Security Vulnerabilities with Static Analysis	FSE2015_15	yes	yes	na	Explorative study, asked participants to ask questions -> more qualitative work	Find security bugs, think aloud protocol
+Detecting Event Anomalies in Event-Based Systems	FSE2015_16	yes	no			
+main.dvi	FSE2015_17	yes	yes	na	survey	
+Auto-patching DOM-Based XSS at Scale	FSE2015_18	yes	no			
+metric.pdf	FSE2015_19	yes	no			
+Modeling Readability to Improve Unit Tests	FSE2015_2	yes	yes	s	Evaluation of domain-specific model of readibility unit tests, controlled study of 10 tests. Results are presented and discussed individually	Will the presented unit test fail or not?
+Users Beware: Preference Inconsistencies Ahead	FSE2015_20	yes	no			
+Hey, You Have Given Me Too Many Knobs!: Understanding and Dealing with Over-Designed Configuration in System Software	FSE2015_21	yes	no			
+Crowd Debugging	FSE2015_22	yes	no			
+On the Use of Delta Debugging to Reduce Recordings and Facilitate Debugging of Web Applications	FSE2015_23	yes	yes	s	Evaluate short recorded failures, four faulty programs -> individually presented	Observe recordings, detect the failure in the application
+MemInsight: Platform-Independent Memory Debugging for JavaScript	FSE2015_24	yes	no			
+JITProf: Pinpointing JIT-Unfriendly JavaScript Code	FSE2015_25	yes	no			
+Cross-Language Program Slicing for Dynamic Web Applications	FSE2015_26	yes	no			
+Suggesting Accurate Method and Class Names	FSE2015_27	yes	no			
+Detecting JavaScript Races That Matter	FSE2015_28	yes	no			
+The Making of Cloud Applications: An Empirical Study on Software Development for the Cloud	FSE2015_29	yes	yes	na	interviews/survey	
+Improving Model-Based Test Generation by Model Decomposition	FSE2015_3	yes	no			
+An Empirical Study of Goto in C Code from GitHub Repositories	FSE2015_30	yes	no			
+Microsoft Word - FSE2015-Feb09-v17-final.docx	FSE2015_31	yes	yes	na	qualitative work	
+What Change History Tells Us about Thread Synchronization	FSE2015_32	yes	no			
+Finding Schedule-Sensitive Branches	FSE2015_33	yes	no			
+Paper Title	FSE2015_34	yes	no			
+A User-Guided Approach to Program Analysis	FSE2015_35	yes	yes	s	Evaluation of analysis/output tool, three benchmarks -> authors discuss every one individually	Eliminate false reports/retain true reports
+Hidden Truths in Dead Software Paths	FSE2015_36	yes	no			
+P3: Partitioned Path Profiling	FSE2015_37	yes	no			
+Proceedings Template - WORD	FSE2015_38	yes	no			
+Measure It? Manage It? Ignore It? Software Practitioners and Technical Debt	FSE2015_39	yes	yes	na	survey/interviews	
+Automated Multi-objective Control for Self-Adaptive Software Design	FSE2015_4	yes	no			
+Heterogeneous Defect Prediction	FSE2015_40	yes	no			
+main.pdf	FSE2015_41	yes	yes	s	Study to evaluate proof-of-concept tool that improves efficiency when copy&pasting code, two groups with/without tool, six cases as tasks, results are discussed individually	Finish 6 programming tasks, include copy, paste and modifying code
+Is the Cure Worse Than the Disease? Overfitting in Automated Program Repair	FSE2015_42	yes	no			
+Responsive Designs in a Snap	FSE2015_43	yes	yes	na	Tiny preliminary user study to evaluate UI tool	Create three responsive Uis different levels of complexity
+CLOTHO: Saving Programs from Malformed Strings and Incorrect String-Handling	FSE2015_44	yes	no			
+Query-Based Configuration of Text Retrieval Solutions for Software Engineering Tasks	FSE2015_45	yes	no			
+Information Retrieval and Spectrum Based Bug Localization: Better Together	FSE2015_46	yes	no			
+Microsoft Word - FSE 2015 CR final.doc	FSE2015_47	yes	no			
+Symbolic Execution of Programs with Heap Inputs	FSE2015_48	yes	no			
+Automatically Computing Path Complexity of Programs	FSE2015_49	yes	no			
+Synthesizing Tests for Detecting Atomicity Violations	FSE2015_5	yes	no			
+Automatically Deriving Pointer Reference Expressions from Binary Code for Memory Dump Analysis	FSE2015_50	yes	no			
+Summarizing and Measuring Development Activity	FSE2015_51	yes	yes	na	Survey, qualitative work	
+A Method to Identify and Correct Problematic Software Activity Data: Exploiting Capacity Constraints and Data Redundancies	FSE2015_52	yes	no			
+Gamification for Enforcing Coding Conventions	FSE2015_53	yes	yes	na	Qualitative, explorative work	
+String Analysis for Java and Android Applications	FSE2015_54	yes	no			
+Auto-completing Bug Reports for Android Applications	FSE2015_55	yes	yes	av	Evaluation of enhanced bug reporting tool with auto-completion, difficult to understand, but discussion appears to be on averages	1: Construct bug reports, 2: reproduction of bug reports
+CLAPP: Characterizing Loops in Android Applications	FSE2015_56	yes	no			
+TLV: Abstraction through Testing, Learning, and Validation	FSE2015_57	yes	no			
+Mimic: Computing Models for Opaque Code	FSE2015_58	yes	no			
+Witness Validation and Stepwise Testification across Software Verifiers	FSE2015_59	yes	no			
+Optimizing Energy Consumption of GUIs in Android Apps: A Multi-objective Approach	FSE2015_6	yes	yes	na	Qualitative work for different color sets	
+Systematic Testing of Asynchronous Reactive Systems	FSE2015_60	yes	no			
+Efficient and Reasonable Object-Oriented Concurrency	FSE2015_61	yes	no			
+FlexJava: Language Support for Safe and Modular Approximate Programming	FSE2015_62	yes	yes	s	Evaluation of approximate programming tool, small part of the paper	Annotate three programs FlexJava vs. competitor
+Getting to Know You: Towards a Capability Model for Java	FSE2015_63	yes	no			
+Efficient Dependency Detection for Safe Java Test Acceleration	FSE2015_64	yes	no			
+Turning Programs against Each Other: High Coverage Fuzz-Testing using Binary-Code Mutation and Dynamic Slicing	FSE2015_65	yes	no			
+Guided Differential Testing of Certificate Validation in SSL/TLS Implementations	FSE2015_66	yes	no			
+fse15.pdf	FSE2015_67	yes	no			
+NimbusSanL-Regu	FSE2015_68	yes	no			
+Impact of Developer Turnover on Quality in Open-Source Software	FSE2015_69	yes	no			
+Generating TCP/UDP Network Data for Automated Unit Test Generation	FSE2015_7	yes	no			
+Effective Test Suites for Mixed Discrete-Continuous Stateflow Controllers	FSE2015_70	yes	no			
+MultiSE: Multi-path Symbolic Execution using Value Summaries	FSE2015_71	yes	no			
+main.pdf	FSE2015_72	yes	no			
+Iterative Distribution-Aware Sampling for Probabilistic Symbolic Execution	FSE2015_73	yes	no			
+GR(1) Synthesis for LTL Specification Patterns	FSE2015_74	yes	no			
+Staged Program Repair with Condition Synthesis	FSE2015_8	yes	no			
+When, How, and Why Developers (Do Not) Test in Their IDEs	FSE2015_9	yes	yes	na	Long-term field study of five months	
+How to Break an API: Cost Negotiation and Community Values in Three Software Ecosystems	FSE2016_1	yes	no			
+Keep It SIMPLEX: Satisfying Multiple Goals with Guarantees in Control-Based Self-Adaptive Systems	FSE2016_10	yes	no			
+Automated Change Impact Analysis between SysML Models of Requirements and Design	FSE2016_11	yes	no			
+Parameter-Free Probabilistic API Mining across GitHub	FSE2016_12	yes	no			
+API Deprecation: A Retrospective Analysis and Detection Method for Code Examples on the Web	FSE2016_13	yes	no			
+Titanium: Efficient Analysis of Evolving Alloy Specifications	FSE2016_14	yes	no			
+When Should Internal Interfaces Be Promoted to Public?	FSE2016_15	yes	no			
+Pollux: Safely Upgrading Dependent Application Libraries	FSE2016_16	yes	no			
+Extracting Instruction Semantics via Symbolic Execution of Code Generators	FSE2016_17	yes	no			
+Efficient Generation of Inductive Validity Cores for Safety Properties	FSE2016_18	yes	no			
+Correctness Witnesses: Exchanging Verification Results between Verifiers	FSE2016_19	yes	no			
+Python Predictive Analysis for Bug Detection	FSE2016_2	yes	no			
+SMT-Based Verification of Parameterized Systems	FSE2016_20	yes	no			
+On-the-Fly Decomposition of Specifications in Software Model Checking	FSE2016_21	yes	no			
+On Well-Separation of GR(1) Specifications	FSE2016_22	yes	no			
+Lightweight Specification and Analysis of Dynamic Systems with Rich Configurations	FSE2016_23	yes	no			
+Gray Links in the Use of Requirements Traceability	FSE2016_24	yes	yes	s, but only one task	Evaluation of requirement tracibility, only one task each	Different tasks per group: correct/change/reuse requirement
+paper	FSE2016_25	yes	no			
+Understanding and Detecting Wake Lock Misuses for Android Applications	FSE2016_26	yes	no			
+DiagDroid: Android Performance Diagnosis via Anatomizing Asynchronous Executions	FSE2016_27	yes	no			
+Minimizing GUI Event Traces	FSE2016_28	yes	no			
+Causal Impact Analysis for App Releases in Google Play	FSE2016_29	yes	yes	na	Qualitative feedback	
+Crash Consistency Validation Made Easy	FSE2016_3	yes	no			
+Static DOM Event Dependency Analysis for Testing Web Applications	FSE2016_30	yes	no			
+On-Demand Strong Update Analysis via Value-Flow Refinement	FSE2016_31	yes	no			
+Call Graph Construction for Java Libraries	FSE2016_32	yes	no			
+Revamping JavaScript Static Analysis via Localization and Remediation of Root Causes of Imprecision	FSE2016_33	yes	no			
+What Would Users Change in My App? Summarizing App Reviews for Recommending Software Changes	FSE2016_34	yes	yes	na	Evaluation of summarized app reviews	
+Designing Minimal Effective Normative Systems with the Help of Lightweight Formal Methods	FSE2016_35	yes	no			
+API Code Recommendation using Statistical Learning from Fine-Grained Changes	FSE2016_36	yes	no			
+Proceedings Template - WORD	FSE2016_37	yes	yes	na	Expert interview/feedback	
+Interactive and Guided Architectural Refactoring with Search-Based Recommendation	FSE2016_38	yes	yes	a	Evaluation of refactoring tool, two groups: with/without tool, only a single task	Single refactoring task on their system
+Can Testedness be Effectively Measured?	FSE2016_39	yes	no			
+Discovering Bug Patterns in JavaScript	FSE2016_4	yes	no			
+A Large-Scale Empirical Comparison of Static and Dynamic Test Case Prioritization Techniques	FSE2016_40	yes	no			
+Analyzing the Validity of Selective Mutation with Dominator Mutants	FSE2016_41	yes	no			
+An Extensive Study of Static Regression Test Selection in Modern Software Evolution	FSE2016_42	yes	no			
+PerfGuard: Binary-Centric Application Performance Monitoring in Production Environments	FSE2016_43	yes	no			
+Python Probabilistic Type Inference with Natural Language Support	FSE2016_44	yes	no			
+fse-xie.pdf	FSE2016_45	yes	no			
+Detecting and Fixing Precision-Specific Operations for Measuring Floating-Point Errors	FSE2016_46	yes	no			
+Deep API Learning	FSE2016_47	yes	no			
+Build System with Lazy Retrieval for Java Projects	FSE2016_48	yes	no			
+iGen: Dynamic Interaction Inference for Configurable Software	FSE2016_49	yes	no			
+Effort-Aware Just-in-Time Defect Prediction: Simple Unsupervised Models Could Be Better Than Supervised Models	FSE2016_5	yes	no			
+CacheOptimizer: Helping Developers Configure Caching Frameworks for Hibernate-Based Database-Centric Web Applications	FSE2016_50	yes	no			
+BinGo: Cross-Architecture Cross-OS Binary Search	FSE2016_51	yes	no			
+Proceedings Template - WORD	FSE2016_52	yes	no			
+Code Relatives: Detecting Similarly Behaving Software	FSE2016_53	yes	no			
+Understanding and Generating High Quality Patches for Concurrency Bugs	FSE2016_54	yes	no			
+Anti-patterns in Search-Based Program Repair	FSE2016_55	yes	no			
+A Cross-Tool Communication Study on Program Analysis Tool Notifications	FSE2016_56	yes	yes	na	Exploratory study	
+Semi-supervised Verified Feedback Generation	FSE2016_57	yes	no			
+WATERFALL: An Incremental Approach for Repairing Record-Replay Tests of Web Applications	FSE2016_58	yes	no			
+doc.pdf	FSE2016_59	yes	yes	s	Two experiments regarding efficiency of projectional/parser-based editors, results and discussion on individual task bases	4 common code-editing activities in C
+...	FSE2016_6	yes	no			
+ECHO: Instantaneous In Situ Race Detection in the IDE	FSE2016_60	yes	no			
+Proceedings Template - WORD	FSE2016_61	yes	no			
+Flow-Sensitive Composition of Thread-Modular Abstract Interpretation	FSE2016_62	yes	no			
+A Deployable Sampling Strategy for Data Race Detection	FSE2016_63	yes	no			
+Online Shared Memory Dependence Reduction via Bisectional Coordination	FSE2016_64	yes	no			
+Parallel Data Race Detection for Task Parallel Programs with Locks	FSE2016_65	yes	no			
+Paradise Unplugged: Identifying Barriers for Female Participation on Stack Overflow	FSE2016_66	yes	yes	na	Interviews/survey	
+Factors Influencing Code Review Processes in Industry	FSE2016_67	yes	yes	na	Grounded theory	
+Why We Refactor? Confessions of GitHub Contributors	FSE2016_68	yes	yes	na	Feedback	
+Effectiveness of Code Contribution: From Patch-Based to Pull-Request-Based Tools	FSE2016_69	yes	no			
+Multi-representational Security Analysis	FSE2016_7	yes	no			
+sig-alternate.pdf	FSE2016_70	yes	no			
+perf.eps	FSE2016_71	yes	no			
+Field-Exhaustive Testing	FSE2016_72	yes	no			
+Microsoft Word - fse16-valueAndCosts-2016-10-20_0900_correctedCameraReady2.docx	FSE2016_73	yes	yes	na	Think-aloud	
+WebRanz: Web Page Randomization for Better Advertisement Delivery and Web-Bot Prevention	FSE2016_8	yes	no			
+A Discrete-Time Feedback Controller for Containerized Cloud Applications	FSE2016_9	yes	no			
+Loopster: Static Loop Termination Analysis	FSE2017_1	yes	no			
+CodeCarbonCopy	FSE2017_10	yes	no			
+Using Bad Learners to Find Good Configurations	FSE2017_11	yes	no			
+Trade-Offs in Continuous Integration:Assurance, Security, and Flexibility	FSE2017_12	yes	yes	na	Interviews/survey	
+Cimplifier: Automatically Debloating Containers	FSE2017_13	yes	no			
+The Power of ``Why'' and ``Why Not'':  Enriching Scenario Exploration with Provenance	FSE2017_14	yes	no			
+Finding Near-Optimal Configurations in Product Lines by Random Sampling	FSE2017_15	yes	no			
+ Better Test Cases for Better Automated Program Repair	FSE2017_16	yes	no			
+Enabling Mutation Testing for Android Apps	FSE2017_17	yes	no			
+More Accurate Recommendations for Method-Level Changes	FSE2017_18	yes	no			
+Fairness Testing: Testing Software for Discrimination	FSE2017_19	yes	no			
+Toward Full Elasticity in Distributed Static Analysis:The Case of Callgraph Analysis	FSE2017_2	yes	no			
+Model-Level, Platform-Independent Debugging in the  Context of the Model-Driven Development of Real-Time Systems	FSE2017_20	yes	no			
+Discovering Relational Specifications	FSE2017_21	yes	no			
+The Care and Feeding of Wild-Caught Mutants	FSE2017_22	yes	no			
+Counterexample-Guided Approach to Finding  Numerical Invariants 	FSE2017_23	yes	no			
+ARTINALI: Dynamic Invariant Detection for Cyber-Physical System Security	FSE2017_24	yes	no			
+Kmax: Finding All Configurations of Kbuild Makefiles Statically	FSE2017_25	yes	no			
+Bayesian Specification Learning for Finding API Usage Errors	FSE2017_26	yes	no			
+Detecting Missing Information in Bug Descriptions	FSE2017_27	yes	no			
+Automatic Generation of Inter-Component Communication Exploits for Android Applications	FSE2017_28	yes	no			
+On the Scalability of Linux Kernel Maintainers' Work	FSE2017_29	yes	no			
+A Feasibility Study of Using Automated Program Repair for  Introductory Programming Assignments	FSE2017_3	yes	yes	both	Evaluation of program repair tool for student submissions, two perspectives: from the grader and the students, some results individually (Fig. 6), but mostly on average	two sets of 22/21 buggy submissions that had to be fixed
+Measuring the Cost of Regression Testing in Practice:A Study of Java Projects using Continuous Integration	FSE2017_30	yes	no			
+Adaptively Generating High Quality Fixes for Atomicity Violations	FSE2017_31	yes	yes	na	Questionnaire of preference	
+main.pdf	FSE2017_32	yes	no			
+Are Deep Neural Networks the Best Choice[2] for Modeling Source Code?	FSE2017_33	yes	no			
+LAMP: Data Provenance for Graph Based Machine Learning Algorithms through Derivative Computation	FSE2017_34	yes	no			
+Reproducing Concurrency Failures from Crash Stacks	FSE2017_35	yes	no			
+Understanding the Impact of Support for Iteration on Code Search	FSE2017_36	yes	yes	s	Evaluation of two novel code search engines, visualization, results, discussion on individual search tasks	8 different search tasks (broad/narrow)
+A Symbolic Justice Violations Transition System for Unrealizable GR(1) Specifications	FSE2017_37	yes	no			
+OASIS: Prioritizing Static Analysis Warnings for Android Apps Based on App User Reviews	FSE2017_38	yes	no			
+Steelix: Program-State Based Binary Fuzzing	FSE2017_39	yes	no			
+Synergistic Debug-Repair of Heap Manipulations	FSE2017_4	yes	no			
+BDCI: Behavioral Driven Conflict Identification	FSE2017_40	yes	no			
+Regression Test Selection Across JVM Boundaries	FSE2017_41	yes	no			
+Guided, Stochastic Model-Based GUI Testing of Android Apps	FSE2017_42	yes	no			
+Modeling and Verification of Evolving Cyber-Physical Spaces	FSE2017_43	yes	no			
+Automatically Diagnosing and Repairing  Error Handling Bugs in C	FSE2017_44	yes	no			
+Probabilistic Model Checking of Perturbed MDPs  with Applications to Cloud Computing	FSE2017_45	yes	no			
+NoFAQ: Synthesizing Command Repairs from Examples	FSE2017_46	yes	no			
+Continuous Variable-Specific Resolutions of Feature Interactions	FSE2017_47	yes	no			
+Constraint Normalization and Parameterized Caching for Quantitative Program Analysis	FSE2017_48	yes	no			
+Generalized Observational Slicing for Tree-Represented Modelling Languages	FSE2017_49	yes	no			
+Understanding Misunderstandings in Source Code	FSE2017_5	yes	no	no	Online comprehension task to evaluate atoms of confusion in code	Answer comprehension question
+CodeMatch: Obfuscation Won't Conceal Your Repackaged App	FSE2017_50	yes	no			
+AtexRace: Across Thread and Execution Sampling for In-House Race Detection	FSE2017_51	yes	no			
+Automatically Analyzing Groups of Crashes  for Finding Correlations	FSE2017_52	yes	no			
+Craig vs. Newton in Software Model Checking	FSE2017_53	yes	no			
+On Evidence Preservation Requirements for Forensic-Ready Systems	FSE2017_54	yes	no			
+S3: Syntax- and Semantic-Guided Repair Synthesis via Programming by Examples	FSE2017_55	yes	no			
+Thread-Modular Static Analysis for Relaxed Memory Models	FSE2017_56	yes	no			
+µDroid: An Energy-Aware Mutation Testing Framework for Android	FSE2017_57	yes	no			
+Symbolic Execution of Programmable Logic Controller Code	FSE2017_58	yes	no			
+Why Modern Open Source Projects Fail	FSE2017_59	yes	yes	na	survey	
+Cooperative Kernels: GPU Multitasking for Blocking Algorithms	FSE2017_6	yes	no			
+Automated Control of Multiple Software Goalsusing Multiple Actuators	FSE2017_60	yes	no			
+A Compiler and Verifier for Page Access Oblivious Computation	FSE2017_61	yes	no			
+Failure-Directed Program Trimming	FSE2017_62	yes	no			
+PATDroid: Permission-Aware GUI Testing of Android	FSE2017_63	yes	no			
+Attributed Variability Models: Outside the Comfort Zone	FSE2017_64	yes	no			
+Is There a Mismatch between Real-World Feature Models and Product-Line Research?	FSE2017_65	yes	no			
+Automatic Inference of Code Transforms for Patch Generation	FSE2017_66	yes	no			
+A Fast Causal Profiler for Task Parallel Programs	FSE2017_67	yes	yes	av	Tiny part to evaluate usability of performance tool	Identify problematic part of four codes causing bottleneck
+Where Is the Bug and How Is It Fixed? An Experiment with Practitioners	FSE2017_68	yes	yes	na	Large experiment >2-3 days working time	Find bugs
+Easy over Hard: A Case Study on Deep Learning	FSE2017_69	yes	no			
+ DESCRY: Reproducing System-Level Concurrency Failures 	FSE2017_7	yes	no			
+Revisiting Unsupervised Learning for Defect Prediction	FSE2017_70	yes	no			
+QTEP: Quality-Aware Test Case Prioritization	FSE2017_71	yes	no			
+Understanding the Impact of Refactoring on Smells:A Longitudinal Study of 23 Software Projects	FSE2017_72	yes	no			
+Why Do Developers Use Trivial Packages? An Empirical Case Study on npm	FSE2017_8	yes	yes	na	Survey	
+Measuring Neural Efficiency of Program Comprehension	FSE2017_9	yes	yes	av	fMRI study top-down/bottom-up compr, analysis on average	TD, BU, Syntax
+A history-based matching approach to identification of framework evolution.pdf	ICSE12_01	yes	no			
+A large scale exploratory analysis of software vulnerability life cycles.pdf	ICSE12_02	yes	no			
+A Systematic Study of Automated Program Repair_Fixing 55 out of 105 Bugs for $8 Each.pdf	ICSE12_03	yes	no			
+A tactic-centric approach for automating traceability of quality concerns.pdf	ICSE12_04	yes	no			
+Active code completion.pdf	ICSE12_05	yes	yes	na	qualitative study	
+Active refinement of clone anomaly reports.pdf	ICSE12_06	yes	no			
+Ambient awareness of build status in collocated software teams.pdf	ICSE12_07	yes	yes	na	observation of developers over tool addon during longer period of time	
+Amplifying tests to validate exception handling code.pdf	ICSE12_08	yes	no			
+An automated approach to generating efficient constraint solvers.pdf	ICSE12_09	yes	no			
+An empirical study about the effectiveness of debugging when random test cases are used.pdf	ICSE12_10	yes	yes	a	answered hypotheses based on aggregated data	4 debugging tasks based on 4 test cases (manually vs. automatically generated)
+Asking and answering questions about unfamiliar APIs An exploratory study.pdf	ICSE12_11	yes	yes	na	purely qualitative	think-aloud protocols to identify types of questions
+Automated analysis of CSS rules to support style maintenance.pdf	ICSE12_12	yes	no			
+Automated detection of client-state manipulation vulnerabilities.pdf	ICSE12_13	yes	no			
+Automated repair of HTML generation errors in PHP applications using string constraint solving.pdf	ICSE12_14	yes	no			
+Automatic Input Recti?cation.pdf	ICSE12_15	yes	yes	s	different benchmarks and data formats are evaluated and discussed format-wise	different benchmarks and different file formats to evaluate effectiveness of automatic input correction
+Automatic parameter recommendation for practical API usage.pdf	ICSE12_16	yes	yes	na	did not evaluate the tasks, but let participants aferwards answer 5 usability questions	
+Automatically finding performance problems with feedback-directed learning software testing.pdf	ICSE12_17	yes	no			
+Automating test automation.pdf	ICSE12_18	yes	yes	na	participants were recruited to create test cases to be executed automatically	
+Axis_automatically fixing atomicity violations through solving control constraints.pdf	ICSE12_19	yes	no			
+BALLERINA_automatic generation and clustering of efficient random unit tests for multithreaded code.pdf	ICSE12_20	yes	no			
+Bug prediction based on fine-grained module histories.pdf	ICSE12_21	yes	no			
+BugRedux_ reproducing field failures for in-house debugging.pdf	ICSE12_22	yes	no			
+Build code analysis with symbolic evaluation.pdf	ICSE12_23	yes	yes	s	results for 6 tasks were presented in a table without discussion	6 programming tasks (details unkown)
+CBCD_cloned buggy code detector.pdf	ICSE12_24	yes	no			
+Characterizing Logging Practices in Open-Source Software	ICSE12_25	yes	no			
+Combining functional and imperative programming for multicore software_an empirical study evaluating Scala and Java.pdf	ICSE12_26	yes	yes	a	aggregated values of weekly submissions of students	implementation of parallel program over course of semester
+Content Classification of Development Emails	ICSE12_27	yes	no			
+Crosscutting Revision Control System	ICSE12_28	yes	no			
+Detecting and visualizing inter-worksheet smells in spreadsheets.pdf	ICSE12_29	yes	yes	both	"developers selected their complex spreadsheets and tested dependency visualizations; visualization was not sufficient for all detected smells, which the authors delayed then to future work"	
+Detecting similar software applications.pdf	ICSE12_30	yes	yes	a		"36 tasks to create programs/libraries in various domains; three different search engines were evaluated based on these tasks"
+Developer Prioritization in Bug Repositories	ICSE12_31	yes	no			
+Development of auxiliary functions_should you be agile_an empirical assessment of pair programming and test-first programming.pdf	ICSE12_32	yes	yes	a	summed up the number of participants that produced incorrect and correct functions	several programming tasks
+Disengagement in Pair Programming: Does It Matter?	ICSE12_33	yes	yes	na	purely qualitative based on observation and interviews	
+Does organizing security patterns focus architectural choices.pdf	ICSE12_34	yes	yes	s	analysis happends task-wise, and conclusions based on single tasks that showed a difference	single tasks of evaluating software architectures
+Enhancing Architecture-Implementation Conformance with Change Management and Support for Behavioral Mapping	ICSE12_35	yes	yes	s	three different case studies to evaluate new approach of architecture conformance ensurance	3 different cases
+Generating obstacle conditions for requirements completeness.pdf	ICSE12_36	yes	no			
+Generating Range Fixes for Software Configuration	ICSE12_37	yes	no			
+Graph-Based Analysis and Prediction for Software Evolution	ICSE12_38	yes	no			
+Graph-Based Pattern-Oriented, Context-Sensitive Source Code Completion	ICSE12_39	yes	no			
+How do professional developers comprehend software.pdf	ICSE12_40	yes	yes	na	"purely qualitative based on observation and interviews; hypotheses generation"	
+Identifying Linux Bug Fixing Patches	ICSE12_41	yes	no			
+Improving Early Detection of Software Merge Conflicts	ICSE12_42	yes	yes	a	6 tasks, between subjects design with three treatments, number of conflicts in all tasks was analyzed	"most likely to code or just type given code; detect/resolve arising merge conflicts"
+Inferring Class Level Specifications for Distributed Systems	ICSE12_43	yes	no			
+Inferring Method Specifications from Natural Language API Descriptions	ICSE12_44	yes	no			
+Integrated Impact Analysis for Managing Software Changes	ICSE12_45	yes	no			
+iTree: Efficiently Discovering High-Coverage Configurations Using Interaction Trees	ICSE12_46	yes	no			
+Leveraging Test Generation and Specification Mining for Automated Bug Detection without False Positives	ICSE12_47	yes	no			
+MagicFuzzer: Scalable Deadlock Detection for Large-Scale Applications	ICSE12_48	yes	no			
+Maintaining Invariant Traceability through Bidirectional Transformations	ICSE12_49	yes	no			
+make test-zesti: A Symbolic Execution Solution for Improving Regression Testing	ICSE12_50	yes	no			
+Metadata invariants_checking and inferring metadata coding conventions	ICSE12_51	yes	no			
+On the Naturalness of Software	ICSE12_52	yes	no			
+Overcoming the challenges in cost estimation for distributed software projects.pdf	ICSE12_53	yes	yes	both	"estimation error and cost; costs are described as maximum, but also as average"	
+Partial evaluation of model transformations.pdf	ICSE12_54	yes	no			
+Partial models: towards modeling and reasoning with uncertainty	ICSE12_55	yes	no			
+Performance debugging in the large via mining millions of stack traces.pdf	ICSE12_56	yes	no			
+Predicting Performance via Automated Feature-Interaction Detection	ICSE12_57	yes	no			
+Privacy and utility for defect prediction_experiments with MORPH.pdf	ICSE12_58	yes	no			
+Recommending Source Code for Use in Rapid Software Prototypes	ICSE12_59	yes	yes	a	several tasks, but never discuss how they are analyzed	Vague prototyping tasks, complete list is in online appendix
+Reconciling Manual and Automatic Refactoring.pdf	ICSE12_60	yes	yes	a	refactoring tasks, 3 of 14 were complex and discussed in detail, but summary based on all tasks	refactoring tasks
+Recovering Traceability Links between an API and Its Learning Resources	ICSE12_61	yes	no			
+Reducing confounding bias in predicate-level statistical debugging metrics.pdf	ICSE12_62	yes	no			
+Semi-automatically extracting FAQs to improve accessibility of software development knowledge.pdf	ICSE12_63	yes	yes	na	developers selected FAQs and according answers, that automatic approach generated/selected…	
+Simulation-Based Abstractions for Software Product-Line Model Checking.pdf	ICSE12_64	yes	no			
+Slicing MATLAB simulink models.pdf	ICSE12_65	yes	no			
+Sound Empirical Evidence in Software Testing.pdf	ICSE12_66	yes	no			
+Static detection of resource contention problems in server-side scripts.pdf	ICSE12_67	yes	no			
+Statically checking API protocol conformance with mined multi-object specifications.pdf	ICSE12_68	yes	no			
+Stride_search-based deterministic replay in polynomial time via bounded linkage.pdf	ICSE12_69	yes	no			
+Synthesizing API usage examples.pdf	ICSE12_70	yes	yes	a	aggregated estimations for all comparisons	"comparison of two versions of textual description of class; 35 comparisons per participant"
+Temporal analysis of API usage concepts.pdf	ICSE12_71	yes	no			
+Test confessions_a study of testing practices for plug-in systems.pdf	ICSE12_72	yes	yes	na	purely qualitative approach on grounded theory	
+Uncovering performance problems in Java applications with reference propagation profiling.pdf	ICSE12_73	yes	no			
+Understanding integer overflow in C-C++.pdf	ICSE12_74	yes	no			
+Use, Disuse, and Misuse of Automated Refactorings.pdf	ICSE12_75	yes	yes	na	observation of developers over tool addon during longer period of time	
+Using dynamic analysis to discover polynomial and array invariants.pdf	ICSE12_76	yes	no			
+Verifying client-side input validation functions using string analysis.pdf	ICSE12_77	yes	no			
+What make long term contributors_ willingness and opportunity in OSS community.pdf	ICSE12_78	yes	no			
+Where does this code come from and where does it go_integrated code history tracker for open source systems.pdf	ICSE12_79	yes	no			
+Where should the bugs be fixed_More accurate information retrieval-based bug localization based on bug reports.pdf	ICSE12_80	yes	no			
+WhoseFault_automatic developer-to-fault assignment through fault localization.pdf	ICSE12_81	yes	no			
+WitchDoctor_IDE Support for Real-Time Auto-Completion of Refactorings.pdf	ICSE12_82	yes	no			
+A characteristic study on failures of production distributed data-parallel programs	ICSE13_01	yes	no			
+A learning-based method for combining testing techniques	ICSE13_02	yes	no			
+A study of enabling factors for rapid fielding: combined practices to balance speed and stability	ICSE13_03	yes	yes	na	grounded theory	
+An empirical study on the developers' perception of software coupling	ICSE13_04	yes	yes	a	most likely average of evaluation values	evaluation of 16 pairs of task regarding coupling, which was related to metrics
+An evaluation of interactive test-driven labs with WebIDE in CS0	ICSE13_05	yes	yes	s	different tasks through course of semester, each task analyzed by itself	"different labs throught the semester, each of which was analyzed; concrete content/task of lab is unclear"
+Analysis of user comments: an approach for software requirements evolution	ICSE13_06	yes	yes	na	qualitative study with think-aloud protocol	revise a software requirements specification document
+Are your incoming aliases really necessary? counting the cost of object ownership	ICSE13_07	yes	no			
+Assisting developers of big data analytics applications when deploying on hadoop clouds	ICSE13_08	yes	no			
+Authentic assessment in software engineering education based on PBL principles: a case study in the telecom market	ICSE13_09	yes	yes	na	development of skills of interns over time	usefulness of se education as preparation for practice was assessed
+Automated diagnosis of software configuration errors	ICSE13_10	yes	no			
+Transfer defect learning	ICSE13_100	yes	no			
+UML in practice	ICSE13_101	yes	yes	na	only interviews	
+Unifying FSM-inference algorithms through declarative specification	ICSE13_102	yes	no			
+User involvement in software evolution practice: a case study	ICSE13_103	yes	yes	na	interviews and hypothesis generation	
+What good are strong specifications?	ICSE13_104	yes	no			
+Why don't software developers use static analysis tools to find bugs?	ICSE13_105	yes	yes	na	interviews	
+X-PERT: accurate identification of cross-browser issues in web applications	ICSE13_106	yes	no			
+Automated reliability estimation over partial systematic explorations	ICSE13_11	yes	no			
+Automated software architecture security risk analysis using formalized signatures	ICSE13_12	yes	no			
+Automatic detection of performance deviations in the load testing of large scale systems	ICSE13_13	yes	no			
+Automatic patch generation learned from human-written patches	ICSE13_14	yes	yes	a	hypotheses tests were conducted on average ratings of the patches	subjects evaluated 5 different patches, generated with 3 different approaches
+Automatic query reformulations for text retrieval in software engineering	ICSE13_15	yes	no			
+Automatic recovery from runtime failures	ICSE13_16	yes	no			
+Automatic testing of sequential and concurrent substitutability	ICSE13_17	yes	no			
+Beyond boolean product-line model checking: dealing with feature attributes and multi-features	ICSE13_18	yes	no			
+Boa: a language and infrastructure for analyzing ultra-large-scale software repositories	ICSE13_19	yes	yes	s	not averaged, task-wise discussion of results	
+Bridging the gap between the total and additional test-case prioritization strategies	ICSE13_20	yes	no			
+Broken sets in software repository evolution	ICSE13_21	yes	no			
+Cassandra: proactive conflict minimization through optimized task scheduling	ICSE13_22	yes	no			
+Categorizing bugs with social networks: a case study on four open source software communities	ICSE13_23	yes	no			
+Chronicler: lightweight recording to reproduce field failures	ICSE13_24	yes	no			
+Comparative causality: explaining the differences between executions	ICSE13_25	yes	no			
+Comparing multi-point stride coverage and dataflow coverage	ICSE13_26	yes	no			
+Counter play-out: executing unrealizable scenario-based specifications	ICSE13_27	yes	no			
+Coupling software architecture and human architecture for collaboration-aware system adaptation	ICSE13_28	yes	no			
+Creating a shared understanding of testing culture on a social coding site	ICSE13_29	yes	yes	na	development and testing of questionnaire/testing strategies on Github	
+Data clone detection and visualization in spreadsheets	ICSE13_30	yes	no			
+Departures from optimality: understanding human analyst's information foraging in assisted requirements tracing	ICSE13_31	yes	yes	both	summarized for creating the models, but also looked at each task (use case) individually	"participants should discover connections between use cases; goal was to model the participants based on information foraging theory"
+Detecting deadlock in programs with data-centric synchronization	ICSE13_32	yes	no			
+Detecting inconsistencies in wrappers: a case study	ICSE13_33	yes	yes	na	I could not find the mention of human participants	
+Detecting spurious counterexamples efficiently in abstract model checking	ICSE13_34	yes	no			
+Discovering essential code elements in informal documentation	ICSE13_35	yes	no			
+Distributed development considered harmful?	ICSE13_36	yes	no			
+Does bug prediction support human developers? findings from a google case study	ICSE13_37	yes	yes	na	"interviews to categorize files as bug prone or not; 4-week observation period with new tool"	no tasks
+Drag-and-drop refactoring: intuitive and efficient program transformation	ICSE13_38	yes	yes	s	"Pairwise comparison of tasks and refactorings; no aggregation"	refactoring tasks
+Dual ecological measures of focus in software development	ICSE13_39	yes	no			
+Dynamic synthesis of local time requirement for service composition	ICSE13_40	yes	no			
+Efficient and change-resilient test automation: an industrial case study	ICSE13_41	yes	yes	na	"participants were recruited to create test cases to be executed automatically (follow-up of automating test automation; ICSE12_18)"	
+Efficient construction of approximate call graphs for JavaScript IDE services	ICSE13_42	yes	no			
+Enabling a classroom design studio with a collaborative sketch design tool	ICSE13_43	yes	yes	na	evaluation of teaching method according to the technology acceptance model	
+Engineering adaptive privacy: on the role of privacy awareness requirements	ICSE13_44	yes	no			
+Estimating mobile application energy consumption using program analysis	ICSE13_45	yes	no			
+Estimating software-intensive projects in the absence of historical data	ICSE13_46	yes	yes	s	estimation of costs for each feature	for cost estimation, features were defined, and two different evaluation methods based on features were evaluated against each other
+Evaluating usefulness of software metrics: an industrial experience report	ICSE13_47	yes	yes	na	no tasks, rather interviews	
+Expectations, outcomes, and challenges of modern code review	ICSE13_48	yes	yes	na	"purely qualitative to evaluate why developers do code reviews; interviews"	
+Explicating symbolic execution (xSymExe): an evidence-based verification framework	ICSE13_49	yes	no			
+Exploring the impact of inter-smell relations on software maintainability: an empirical study	ICSE13_50	yes	yes	na	conducted a PCA with all 301 modified files, likely with all three maintenance tasks	3 maintenance tasks x 2 systems, think-aloud data to identify smells
+Expositor: scriptable time-travel debugging with first-class traces	ICSE13_51	yes	no			
+Feedback-directed unit test generation for C/C++ using concolic execution	ICSE13_52	yes	no			
+Green streams for data-intensive software	ICSE13_53	yes	no			
+GuideArch: guiding the exploration of architectural solution space under uncertainty	ICSE13_54	yes	yes	na	observation of developers over tool addon during longer period of time	no specific tasks
+Guided test generation for web applications	ICSE13_55	yes	no			
+How to effectively use topic models for software engineering tasks? an approach based on genetic algorithms	ICSE13_56	yes	no			
+How, and Why, Process Metrics Are Better	ICSE13_57	yes	no			
+Human performance regression testing	ICSE13_58	yes	no			
+Improving feature location practice with multi-faceted interactive exploration	ICSE13_59	yes	yes	a	completion time for all tasks is used for analysis	several tasks selected from a benchmark
+Industry involvement in ICT curriculum: a comparative survey	ICSE13_60	yes	yes	na	"purely qualitative; survey to identify gap in teaching between industry and universities"	
+Inferring likely mappings between APIs	ICSE13_61	yes	no			
+Interaction-based test-suite minimization	ICSE13_62	yes	no			
+Is time-zone proximity an advantage for software development? the case of the brazilian IT industry	ICSE13_63	yes	yes	na	interviews, no tasks, to evaluate whether time zone proximity/distance works for Brazilian IT companies	
+It's not a bug, it's a feature: how misclassification impacts bug prediction	ICSE13_64	yes	no			
+JST: an automatic test generation tool for industrial Java applications with strings	ICSE13_65	yes	no			
+LASE: locating and applying systematic edits by learning from examples	ICSE13_66	yes	no			
+Learning revised models for planning in adaptive systems	ICSE13_67	yes	no			
+Managing non-functional uncertainty via model-driven adaptivity	ICSE13_68	yes	no			
+Measuring architecture quality by structure plus history analysis	ICSE13_69	yes	no			
+MIDAS: a design quality assessment method for industrial software	ICSE13_70	yes	no			
+Mining SQL injection and cross site scripting vulnerabilities using hybrid program analysis	ICSE13_71	yes	no			
+Observable modified Condition/Decision coverage	ICSE13_72	yes	no			
+On the value of user preferences in search-based software engineering: a case study in software product lines	ICSE13_73	yes	no			
+Partition-based regression verification	ICSE13_74	yes	no			
+Path sensitive static analysis of web applications for remote code execution vulnerability detection	ICSE13_75	yes	no			
+POPT: a problem-oriented programming and testing approach for novice students	ICSE13_76	yes	yes	s, but only one task	only one task to evaluate approach regarding time and number of submissions	
+PorchLight: a tag-based approach to bug triaging	ICSE13_77	yes	yes	na	participants completed tasks, yet they were only interviewed and asked to rate the tool based on several questions	
+Predicting bug-fixing time: an empirical study of commercial software projects	ICSE13_78	yes	no			
+Program transformations to fix C integers	ICSE13_79	yes	no			
+Reducing human effort and improving quality in peer code reviews using automatic static analysis and reviewer recommendation	ICSE13_80	yes	yes	na	no single tasks to aggregate	
+Reliability analysis in symbolic pathfinder	ICSE13_81	yes	no			
+Requirements modelling by synthesis of deontic input-output automata	ICSE13_82	yes	no			
+RERAN: timing- and touch-sensitive record and replay for Android	ICSE13_83	yes	no			
+Reverb: recommending code-related web pages	ICSE13_84	yes	yes	na	analysis of browsing history and usage of new tool	no defined tasks
+Robust Recon?gurations of Component Assemblies	ICSE13_85	yes	no			
+Safe software updates via multi-version execution	ICSE13_86	yes	no			
+Scaling agile methods to regulated environments: an industry case study	ICSE13_87	yes	yes	na	interviews to develop prototype	
+Search-based genetic optimization for deployment and reconfiguration of software in the cloud	ICSE13_88	yes	no			
+Segmented Symbolic Analysis	ICSE13_89	yes	no			
+SemFix: program repair via semantic analysis	ICSE13_90	yes	no			
+Strategies for product-line verification: case studies and experiments	ICSE13_91	yes	no			
+Studios in software engineering education: towards an evaluable model	ICSE13_92	yes	yes	na	purely qualitative based on observation and interviews	
+Supporting swift reaction: automatically uncovering performance problems by systematic experiments	ICSE13_93	yes	no			
+Teaching developer skills in the first software engineering course	ICSE13_94	yes	yes	na	survey of students after course	
+Teaching software process modeling	ICSE13_95	yes	yes	na	no tasks, but teaching evaluations	
+Teaching students global software engineering skills using distributed scrum	ICSE13_96	yes	yes	na	scrum over the course of a semester in Canada and Finnland to teach distributed software development	
+The design of bug fixes	ICSE13_97	yes	yes	na	interviews and survey with estimation of frequencies	
+The role of domain knowledge and cross-functional communication in socio-technical coordination	ICSE13_98	yes	yes	na	interviews, observation, and survey about communication behavior	
+Toddler: detecting performance problems via similar memory-access patterns	ICSE13_99	yes	no			
+Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development?	ICSE2014_1	yes	yes	na	Qualitative study	
+Enhancing Symbolic Execution with Veritesting	ICSE2014_10	yes	no			
+Manual Refactoring Changes with Automated Refactoring Validation	ICSE2014_11	yes	yes	s	Evaluation of refactoring tool/iDE plugin. Two study groups: with/without tool. Plotting (and brief discussion of) results of individual tasks.	Six refactoring tasks
+Alternate Refactoring Paths Reveal Usability Problems	ICSE2014_12	yes	yes	na	Qualitative study: critical incident technique	
+A Study and Toolkit for Asynchronous Programming in C#	ICSE2014_13	yes	no			
+Reuse-Oriented Reverse Engineering of Functional Components from X86 Binaries	ICSE2014_14	yes	no			
+Lifting Model Transformations to Product Lines	ICSE2014_15	yes	no			
+Analyze This! 145 Questions for Data Scientists in Software Engineering	ICSE2014_16	yes	yes	na	Qualitative study	
+Automated Goal Operationalisation Based on Interpolation and SAT Solving	ICSE2014_17	yes	no			
+Mining Configuration Constraints: Static Analyses and Empirical Results	ICSE2014_18	yes	no			
+Which Configuration Option Should I Change?	ICSE2014_19	yes	no			
+Detecting Performance Anti-patterns for Applications Developed using Object-Relational Mapping	ICSE2014_2	yes	no			
+Detecting Differences across Multiple Instances of Code Clones	ICSE2014_20	yes	yes	av	Evaluation of refactoring/diff tool, compared against existing tool. Matched participant two groups design, no mention of individual tasks, discussion on averages	8 clone-related refactoring tasks
+Achieving Accuracy and Scalability Simultaneously in Detecting Application Clones on Android Markets	ICSE2014_21	yes	no			
+Two's Company, Three's a Crowd: A Case Study of Crowdsourcing Software Development	ICSE2014_22	yes	no			
+Does Latitude Hurt while Longitude Kills? Geographical and Temporal Separation in a Large Scale Software Development Project	ICSE2014_23	yes	no			
+Software Engineering at the Speed of Light: How Developers Stay Current using Twitter	ICSE2014_24	yes	yes	na	Qualitative studies	
+Building It Together: Synchronous Development in OSS	ICSE2014_25	yes	no			
+"A Critical Review of ""Automatic Patch Generation Learned from Human-Written Patches"": Essay on the Problem Statement and the Evaluation of Automatic Software Repair"	ICSE2014_26	no	no			
+The Dimensions of Software Engineering Success	ICSE2014_27	yes	yes	na	Qualitative work	
+Data-Guided Repair of Selection Statements	ICSE2014_28	yes	no			
+The Strength of Random Search on Automated Program Repair	ICSE2014_29	yes	no			
+Characterizing and Detecting Performance Bugs for Smartphone Applications	ICSE2014_3	yes	no			
+MintHint: Automated Synthesis of Repair Hints	ICSE2014_30	yes	yes	s	Amongst others, user study to evaluate repair hint tool, individual discussion	"Somewhat unclear, ""fault localization task"", which was fulfilled when all tests passed"
+Mining Behavior Models from User-Intensive Web Applications	ICSE2014_31	yes	no			
+Reviser: Efficiently Updating IDE-/IFDS-Based Data-Flow Analyses in Response to Incremental Program Changes	ICSE2014_32	yes	no			
+Automated Design of Self-Adaptive Software with Control-Theoretical Formal Guarantees	ICSE2014_33	yes	no			
+Perturbation Analysis of Stochastic Systems with Empirical Distribution Parameters	ICSE2014_34	yes	no			
+How Do Centralized and Distributed Version Control Systems Impact Software Changes?	ICSE2014_35	yes	no			
+Transition from Centralized to Decentralized Version Control Systems: A Case Study on Reasons, Barriers, and Outcomes	ICSE2014_36	yes	yes	na	interviews/survey	
+An Exploratory Study of the Pull-Based Software Development Model	ICSE2014_37	yes	no			
+Influence of Social and Technical Factors for Evaluating Contribution in GitHub	ICSE2014_38	yes	no			
+How Do Professionals Perceive Legacy Systems and Software Modernization?	ICSE2014_39	yes	yes	na	interviews/survey	
+Checking App Behavior Against App Descriptions	ICSE2014_4	yes	no			
+Understanding JavaScript Event-Based Interactions	ICSE2014_40	yes	yes	s	Two controlled studies to evaluate tool, between-subject design: with/without tool, 	Various comprehension tasks
+Understanding Understanding Source Code with Functional Magnetic Resonance Imaging	ICSE2014_41	yes	yes	av	Groundbreaking fMRI study, within-subject design	Bottom-up comprehension vs. location syntax errors
+Improving Automated Source Code Summarization via an Eye-Tracking Study of Programmers	ICSE2014_42	yes	yes	both	Eye-tracking study, results are largely averaged, a single example is based on a single task	Reading, comprehending, and summarizing Java methods
+Using Psycho-Physiological Measures to Assess Task Difficulty in Software Development	ICSE2014_43	yes	yes	av	Predicting code difficulty with biometrics, used machine learning for classifcation of difficult/easy	Short comprehension tasks
+Dictionary Learning Based Software Defect Prediction	ICSE2014_44	yes	no			
+Comparing Static Bug Finders and Statistical Prediction	ICSE2014_45	yes	no			
+Coverage Is Not Strongly Correlated with Test Suite Effectiveness	ICSE2014_46	yes	no			
+How to Make Best Use of Cross-Company Data in Software Effort Estimation?	ICSE2014_47	yes	no			
+CARE: Cache Guided Deterministic Replay for Concurrent Java Programs	ICSE2014_48	yes	no			
+Inferring Models of Concurrent Systems from Logs of Their Behavior with CSight	ICSE2014_49	yes	yes	s	Controlled study to evaluate tool, within-subject, two tasks either with or without tool, results are discussed on individual tasks	Find bug in concurrent systems
+AsDroid: Detecting Stealthy Behaviors in Android Applications by User Interface and Program Behavior Contradiction	ICSE2014_5	yes	no			
+SimRT: An Automated Framework to Support Regression Testing for Data Races	ICSE2014_50	yes	no			
+Unleashing Concurrency for Irregular Data Structures	ICSE2014_51	yes	no			
+ConLock: A Constraint-Based Approach to Dynamic Checking on Deadlocks in Multithreaded Programs	ICSE2014_52	yes	no			
+SEEDS: A Software Engineer's Energy-Optimization Decision Support Framework	ICSE2014_53	yes	no			
+APE: An Annotation Language and Middleware for Energy-Efficient Mobile Application Development	ICSE2014_54	yes	no			
+Making Web Applications More Energy Efficient for OLED Smartphones	ICSE2014_55	yes	yes	na	Online survey to evaluate changed website coloring	
+Micro Execution	ICSE2014_56	yes	no			
+Unit Test Virtualization with VMVM	ICSE2014_57	yes	no			
+Interpolated N-Grams for Model Based Testing	ICSE2014_58	yes	no			
+An Analysis of the Relationship between Conditional Entropy and Failed Error Propagation in Software Testing	ICSE2014_59	yes	no			
+Patch Verification via Multiversion Interprocedural Control Flow Graphs	ICSE2014_6	yes	no			
+Trading Robustness for Maintainability: An Empirical Study of Evolving C# Programs	ICSE2014_60	yes	no			
+Case Studies and Tools for Contract Specifications	ICSE2014_61	yes	yes	na	Case study with individual developer	
+Performance Regression Testing Target Prioritization via Performance Risk Analysis	ICSE2014_62	yes	no			
+Using Dynamic Analysis to Generate Disjunctive Invariants	ICSE2014_63	yes	no			
+Inductive Verification of Data Model Invariants for Web Applications	ICSE2014_64	yes	no			
+How Do API Documentation and Static Typing Affect API Usability?	ICSE2014_65	yes	yes	s, but only one task	Controlled experiment to evaluate effect of API documentation and static typing	Single API usage task, which takes hours to complete
+Live API Documentation	ICSE2014_66	yes	no			
+CodeHint: Dynamic and Interactive Synthesis of Code Snippets	ICSE2014_67	yes	yes	av	Evaluation of code sythesis tool, two studies on single-line and open-ended tasks, many tasks (15 and 3, resp.), discussion on averages	
+Spotting Working Code Examples	ICSE2014_68	yes	no			
+Self-Adaptation through Incremental Generative Model Transformations at Runtime	ICSE2014_69	yes	no			
+Property Differencing for Incremental Checking	ICSE2014_7	yes	no			
+Hope for the Best, Prepare for the Worst: Multi-tier Control for Adaptive Systems	ICSE2014_70	no?	no			
+Brownout: Building More Robust Cloud Applications	ICSE2014_71	yes	no			
+Integrating Adaptive User Interface Capabilities in Enterprise Applications	ICSE2014_72	yes	yes	na	Interviews/discussions	
+Code Coverage for Suite Evaluation by Developers	ICSE2014_73	yes	no			
+Programmers' Build Errors: A Case Study (at Google)	ICSE2014_74	yes	no			
+Understanding and Improving Software Build Teams	ICSE2014_75	yes	yes	na	Interviews/survey/focus group	
+Towards Efficient Optimization in Package Management Systems	ICSE2014_76	yes	no			
+Easing Software Component Repository Evolution	ICSE2014_77	yes	no			
+AR-Miner: Mining Informative Reviews for Developers from Mobile App Marketplace	ICSE2014_78	yes	no			
+Mining Billions of AST Nodes to Study Actual and Potential Usage of Java Language Features	ICSE2014_79	yes	no			
+TradeMaker: Automated Dynamic Analysis of Synthesized Tradespaces	ICSE2014_8	yes	no			
+Mining Interprocedural, Data-Oriented Usage Patterns in JavaScript Web Applications	ICSE2014_80	yes	no			
+Mining Fine-Grained Code Changes to Detect Unknown Change Patterns	ICSE2014_81	yes	yes	na	survey	
+Detecting Memory Leaks through Introspective Dynamic Behavior Modeling using Machine Learning	ICSE2014_82	yes	no			
+Automated Memory Leak Detection for Production Use	ICSE2014_83	yes	no			
+Time Pressure: A Controlled Experiment of Test Case Development and Requirements Review	ICSE2014_84	yes	yes	av	Controlled study to evaluate time pressure, two-by-two crossover design. Only two tasks, but discussion is on average basis	Requirement
+Vejovis: Suggesting Fixes for JavaScript Faults	ICSE2014_85	yes	no			
+Is Spreadsheet Ambiguity Harmful? Detecting and Repairing Spreadsheet Smells due to Ambiguous Computation	ICSE2014_86	yes	no			
+Us and Them: A Study of Privacy Requirements Across North America, Asia, and Europe	ICSE2014_87	yes	no			
+Distilling Privacy Requirements for Mobile Applications	ICSE2014_88	yes	no			
+Uncertainty, Risk, and Information Value in Software Requirements and Architecture	ICSE2014_89	no	no			
+Symbolic Assume-Guarantee Reasoning through BDD Learning	ICSE2014_9	yes	no			
+Requirements Fixation	ICSE2014_90	yes	yes	s	Requirements study, between-subject randomized, analysis on individual task	Develop design concepts
+Exploring Variability-Aware Execution for Testing Plugin-Based Web Applications	ICSE2014_91	yes	no			
+A Study of Equivalent and Stubborn Mutation Operators using Human Analysis of Equivalence	ICSE2014_92	yes	no			
+Cross-Checking Oracles from Intrinsic Software Redundancy	ICSE2014_93	yes	no			
+Mind the Gap: Assessing the Conformance of Software Traceability to Relevant Guidelines	ICSE2014_94	yes	no			
+Verifying Component and Connector Models against Crosscutting Structural Views	ICSE2014_95	yes	yes	na	Survey, only minor part	
+Effects of Using Examples on Structural Model Comprehension: A Controlled Experiment	ICSE2014_96	yes	yes	both	Controlled study to evaluate example driven modeling, does it improve comprehension? Two groups: model with/without examples. Lots of individual task analysis, but also some average results	Various tasks
+Design Rule Spaces: A New Form of Architecture Insight	ICSE2014_97	yes	no			
+Controlled Modeling Environment using Flexibly-Formatted Spreadsheets	ICSE2014_98	yes	yes	both	Controlled study to evaluate spreadsheet-based models, preliminary study, some average and some individual results	Four modelling tasks, details unclear
+Feature Maintenance with Emergent Interfaces	ICSE2014_99	yes	yes	s	Controlled study to evaluate a tool for dealing with feature dependencies, 	Four different kinds of maintenance tasks
+Truth in Advertising: The Hidden Cost of Mobile Ads for Software Developers	ICSE2015_1	yes	no			
+Developing and Evaluating Software Engineering Process Theories	ICSE2015_10	no	no			
+Lightweight Adaptive Filtering for Efficient Learning and Updating of Probabilistic Models	ICSE2015_11	yes	no			
+Tempura: Temporal Dimension for IDEs	ICSE2015_12	yes	yes	av	Controlled user study to evaluate plugin for IDE, which provides historical code. 10 participants where split up into two groups, which either were able to use the plugin or not: only averages are presented	Answer questions about code history
+Supporting Selective Undo in a Code Editor	ICSE2015_13	yes	yes	both	Controlled study to evaluate the usability and usefulness of AZURITE, between-subjects design with two groups: with/without tool. Largely discussion on individual tasks, but some averages are presented	6 various programming tasks in Java, one particularly for code history
+Cascade: A Universal Programmer-Assisted Type Qualifier Inference Tool	ICSE2015_14	yes	yes	a	Controlled study to compare type-interference Julia and Cascade tools, within-subject design	Insert nullness annotations using each tool for two programs
+RECONTEST: Effective Regression Testing of Concurrent Programs	ICSE2015_15	yes	no			
+A Synergistic Analysis Method for Explaining Failed Regression Tests	ICSE2015_16	yes	no			
+An Information Retrieval Approach for Regression Test Prioritization Based on Program Changes	ICSE2015_17	yes	no			
+IccTA: Detecting Inter-Component Privacy Leaks in Android Apps	ICSE2015_18	yes	no			
+Do Security Patterns Really Help Designers?	ICSE2015_19	yes	yes	s	Controlled study to evaluate the helpfulness of security patterns, everything is presented on a single task basis	Six tasks to extend and harden security of design
+Interactive Code Review for Systematic Changes	ICSE2015_2	yes	yes	s, but only one task	Two studies to evaluate diff tool, one with professionals, one to compare with eclipse default diff view	Second study: review two patches, one with eclipse diff, one with the tool
+AppContext: Differentiating Malicious and Benign Mobile App Behaviors Using Context	ICSE2015_20	yes	no			
+TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript	ICSE2015_21	yes	no			
+Automated Data Structure Generation: Refuting Common Wisdom	ICSE2015_22	yes	no			
+Detecting Inconsistencies in JavaScript MVC Applications	ICSE2015_23	yes	no			
+AutoCSP: Automatically Retrofitting CSP to Web Applications	ICSE2015_24	yes	no			
+How Much Up-Front? A Grounded theory of Agile Architecture	ICSE2015_25	yes	yes	na	Grounded theory of agile	
+Work Practices and Challenges in Pull-Based Development: The Integrator's Perspective	ICSE2015_26	yes	yes	na	Qualitative, exploratory survey	
+Build It Yourself! Homegrown Tools in a Large Software Company	ICSE2015_27	yes	yes	na	Qualtitative study	
+Morpheus: Variability-Aware Refactoring in the Wild	ICSE2015_28	yes	no			
+Does Automated Refactoring Obviate Systematic Editing?	ICSE2015_29	yes	no			
+Automated Decomposition of Build Targets	ICSE2015_3	yes	no			
+When and Why Your Code Starts to Smell Bad	ICSE2015_30	yes	no			
+Learning to Log: Helping Developers Make Informed Logging Decisions	ICSE2015_31	yes	yes	av	Online questionnaire to evaluate logging tool, only averages are discussed	Recover original logging statements
+Mining Apps for Abnormal Usage of Sensitive Data	ICSE2015_32	yes	no			
+Tracking Static Analysis Violations over Time to Capture Developer Characteristics	ICSE2015_33	yes	no			
+Automated Modularization of GUI Test Cases	ICSE2015_34	yes	no			
+DirectFix: Looking for Simple Program Repairs	ICSE2015_35	yes	no			
+Safe Memory-Leak Fixing for C Programs	ICSE2015_36	yes	no			
+relifix: Automated Repair of Software Regressions	ICSE2015_37	yes	no			
+The Art of Testing Less without Sacrificing Quality	ICSE2015_38	yes	no			
+No PAIN, No Gain? The Utility of PArallel Fault INjections	ICSE2015_39	yes	no			
+Helping Developers Help Themselves: Automatic Decomposition of Code Review Changesets	ICSE2015_4	yes	yes	na	Qualitative user study	
+A Flexible and Non-intrusive Approach for Computing Complex Structural Coverage Metrics	ICSE2015_40	yes	no			
+Combining Multi-Objective Search and Constraint Solving for Configuring Large Software Product Lines	ICSE2015_41	yes	no			
+A Genetic Algorithm for Detecting Significant Floating-Point Inaccuracies	ICSE2015_42	yes	no			
+Learning Combinatorial Interaction Test Generation Strategies Using Hyperheuristic Search	ICSE2015_43	yes	no			
+Making System User Interactive Tests Repeatable: When and What Should We Control?	ICSE2015_44	yes	no			
+Borrowing from the Crowd: A Study of Recombination in Software Design Competitions	ICSE2015_45	yes	yes	na	Qualitative user study	
+From Developer Networks to Verified Communities: A Fine-Grained Approach	ICSE2015_46	yes	yes	na	survey to validate tool result	
+Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub	ICSE2015_47	yes	yes	na	Mixed-method approach, qualitative	
+Database-Backed Program Analysis for Scalable Error Propagation	ICSE2015_48	yes	no			
+Tricorder: Building a Program Analysis Ecosystem	ICSE2015_49	yes	no			
+Data-Delineation in Software Binaries and its Application to Buffer-Overrun Discovery	ICSE2015_5	yes	no			
+Alloy*: A General-Purpose Higher-Order Relational Constraint Solver	ICSE2015_50	yes	no			
+DASE: Document-Assisted Symbolic Execution for Improving Automated Software Testing	ICSE2015_51	yes	no			
+Compositional Symbolic Execution with Memoized Replay	ICSE2015_52	yes	no			
+Regular Property Guided Dynamic Symbolic Execution	ICSE2015_53	yes	no			
+Combining Symbolic Execution and Model Checking for Data Flow Testing	ICSE2015_54	yes	no			
+ZoomIn: Discovering Failures by Detecting Wrong Assertions	ICSE2015_55	yes	no			
+Are Students Representatives of Professionals in Software Engineering Experiments?	ICSE2015_56	yes	yes	av	One-factor two-level, within-subjects design to compare students and professionals for SE experiments, discussion and results are on grouped tasks	Several groups of TDD implementations
+Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality	ICSE2015_57	yes	yes	na	Qualitative long-term observation of developers	
+Stuck and Frustrated or in Flow and Happy: Sensing Developers' Emotions and Progress	ICSE2015_58	yes	yes	a?	Lab study to investigate positive/negative emotions with biometrics	Two change tasks in Java
+What Makes a Great Software Engineer?	ICSE2015_59	yes	yes	na	Qualitative study	
+Measuring Software Redundancy	ICSE2015_6	yes	no			
+Efficient Scalable Verification of LTL Specifications	ICSE2015_60	yes	no			
+Empirical Study Towards a Leading Indicator for Cost of Formal Software Verification	ICSE2015_61	yes	no			
+Specifying Event-Based Systems with a Counting Fluent Temporal Logic	ICSE2015_62	yes	no			
+Coexecutability for Efficient Verification of Data Model Updates	ICSE2015_63	yes	no			
+Assert Use in GitHub Projects	ICSE2015_64	yes	no			
+A Programming Model for Sustainable Software	ICSE2015_65	yes	no			
+Composite Constant Propagation: Application to Android Inter-Component Communication Analysis	ICSE2015_66	yes	no			
+A Comparative Study of Programming Languages in Rosetta Code	ICSE2015_67	yes	no			
+Revisiting the Impact of Classification Techniques on the Performance of Defect Prediction Models	ICSE2015_68	yes	no			
+LACE2: Better Privacy-Preserving Data Sharing for Cross Project Defect Prediction	ICSE2015_69	yes	no			
+Gray Computing: An Analysis of Computing with Background JavaScript Tasks	ICSE2015_7	yes	no			
+The Impact of Mislabelling on the Performance and Interpretation of Defect Prediction Models	ICSE2015_70	yes	no			
+ReCBuLC: Reproducing Concurrency Bugs Using Local Clocks	ICSE2015_71	yes	no			
+Dynamic Generation of Likely Invariants for Multithreaded Programs	ICSE2015_72	yes	no			
+GPredict: Generic Predictive Concurrency Analysis	ICSE2015_73	yes	no			
+Graph-Based Statistical Language Model for Code	ICSE2015_74	yes	no			
+Discovering Information Explaining API Types Using Text Classification	ICSE2015_75	yes	no			
+How Can I Use This Method?	ICSE2015_76	yes	yes	s	survey and evaluation of example usage suggestion tool with two tasks, one without/with tool, paired design, individual results	Create two Java programs
+Static Control-Flow Analysis of User-Driven Callbacks in Android Applications	ICSE2015_77	yes	no			
+Hercules: Reproducing Crashes in Real-World Application Binaries	ICSE2015_78	yes	no			
+Views on Internal and External Validity in Empirical Software Engineering	ICSE2015_79	yes	yes	na	Qualitative study	
+Presence-Condition Simplification in Highly Configurable Systems	ICSE2015_8	yes	no			
+CARAMEL: Detecting and Fixing Performance Problems That Have Non-Intrusive Fixes	ICSE2015_80	yes	no			
+An Empirical Study on Real Bug Fixes	ICSE2015_81	yes	no			
+Does the Failing Test Execute a Single or Multiple Faults? An Approach to Classifying Failing Tests	ICSE2015_82	yes	no			
+Trivial Compiler Equivalence: A Large Scale Empirical Study of a Simple, Fast and Effective Equivalent Mutant Detection Technique	ICSE2015_83	yes	no			
+Dynamic Data Flow Testing of Object Oriented Systems	ICSE2015_84	yes	no			
+Symbolic Model Checking of Product-Line Requirements Using SAT-Based Methods	ICSE2015_9	yes	no			
+Quantifying and Mitigating Turnover-Induced Knowledge Loss: Case Studies of Chrome and a Project at Avaya	ICSE2016_1	yes	no			
+Scalable Thread Sharing Analysis	ICSE2016_10	yes	no			
+The Challenges of Staying Together While Moving Fast: An Exploratory Study	ICSE2016_100	yes	yes	na	qualitative study	
+The Sky Is Not the Limit: Multitasking Across GitHub Projects	ICSE2016_101	yes	yes	na	qualitative study	
+Fixing Deadlocks via Lock Pre-Acquisitions	ICSE2016_11	yes	no			
+Coverage-Driven Test Code Generation for Concurrent Classes	ICSE2016_12	yes	no			
+Locking Discipline Inference and Checking	ICSE2016_13	yes	no			
+Improving Refactoring Speed by 10X	ICSE2016_14	yes	yes	s	2 User studies to evaluate refactoring tool: two tasks each which were balanced by two groups. Individual tasks are discussed	3 Refactoring design patterns with/without the presented refactoring tool.
+SourcererCC: Scaling Code Clone Detection to Big-Code	ICSE2016_15	yes	no			
+Understanding Asynchronous Interactions in Full-Stack JavaScript	ICSE2016_16	yes	yes	s	User study to evaluate visualization tool that aids comprehension of async Javascript code. Three comprehension tasks for a single example.	Multiple, complex comprehension tasks of a async JS code
+Shadow of a Doubt: Testing for Divergences between Software Versions	ICSE2016_17	yes	no			
+Grounded Theory in Software Engineering Research: A Critical Review and Guidelines	ICSE2016_18	yes	no			
+On the Techniques We Create, the Tools We Build, and Their Misalignments: A Study of KLEE	ICSE2016_19	yes	no			
+Quality Experience: A Grounded Theory of Successful Agile Projects without Dedicated Testers	ICSE2016_2	yes	yes	na	Qualitative study with semi-structured interviews	
+Release Planning of Mobile Apps Based on User Reviews	ICSE2016_20	yes	yes	na	Qualitative study	
+Guiding Dynamic Symbolic Execution toward Unverified Program Executions	ICSE2016_21	yes	no			
+Synthesizing Framework Models for Symbolic Execution	ICSE2016_22	yes	no			
+Type-Aware Concolic Testing of JavaScript Programs	ICSE2016_23	yes	no			
+An Empirical Comparison of Compiler Testing Techniques	ICSE2016_24	yes	no			
+Termination-Checking for LLVM Peephole Optimizations	ICSE2016_25	yes	no			
+Finding and Analyzing Compiler Warning Defects	ICSE2016_26	yes	no			
+iDice: Problem Identification for Emerging Issues	ICSE2016_27	yes	no			
+Energy Profiles of Java Collections Classes	ICSE2016_28	yes	no			
+An Empirical Study of Practitioners' Perspectives on Green Software Engineering	ICSE2016_29	yes	yes	na	Survey on green SE/energy use	
+Code Review Quality: How Developers See It	ICSE2016_3	yes	yes	na	Qualitative study	
+Automated Energy Optimization of HTTP Requests for Mobile Applications	ICSE2016_30	yes	no			
+Toward a Framework for Detecting Privacy Policy Violations in Android Application Code	ICSE2016_31	yes	no			
+"Too Long; Didn't Watch! Extracting Relevant Fragments from Software Development Video Tutorials"	ICSE2016_32	yes	yes	na	Two studies: survey and semi-structured interviews	
+Overcoming Open Source Project Entry Barriers with a Portal for Newcomers	ICSE2016_33	yes	yes	na	Qualitative study/survey	
+Work Practices and Challenges in Pull-Based Development: The Contributor's Perspective	ICSE2016_34	yes	yes	na	survey	
+Automatically Learning Semantic Features for Defect Prediction	ICSE2016_35	yes	no			
+PRADA: Prioritizing Android Devices for Apps by Mining Large-Scale Usage Data	ICSE2016_36	yes	no			
+Cross-Project Defect Prediction Using a Connectivity-Based Unsupervised Classifier	ICSE2016_37	yes	no			
+Automated Parameter Optimization of Classification Techniques for Defect Prediction Models	ICSE2016_38	yes	no			
+AntMiner: Mining More Bugs by Reducing Noise Interference	ICSE2016_39	yes	no			
+Revisiting Code Ownership and Its Relationship with Software Quality in the Scope of Modern Code Review	ICSE2016_4	yes	no			
+Program Synthesis Using Natural Language	ICSE2016_40	yes	no			
+SWIM: Synthesizing What I Mean - Code Search and Idiomatic Snippet Synthesis	ICSE2016_41	yes	no?	na	One developer graded solution of developed tool	
+Cross-Supervised Synthesis of Web-Crawlers	ICSE2016_42	yes	no			
+Mining Sandboxes	ICSE2016_43	yes	no			
+Automatic Model Generation from Documentation for Java API Functions	ICSE2016_44	yes	no			
+Augmenting API Documentation with Insights from Stack Overflow	ICSE2016_45	yes	yes	na	survey to evaluate tool	
+From Word Embeddings to Document Similarities for Improved Information Retrieval in Software Engineering	ICSE2016_46	yes	no			
+Learning API Usages from Bytecode: A Statistical Approach	ICSE2016_47	yes	no			
+"On the ""Naturalness"" of Buggy Code"	ICSE2016_48	yes	no			
+Code Anomalies Flock Together: Exploring Code Anomaly Agglomerations for Locating Design Problems	ICSE2016_49	yes	no			
+IntEQ: Recognizing Benign Integer Overflows via Equivalence Checking across Multiple Precisions	ICSE2016_5	yes	no			
+Using (Bio)Metrics to Predict Code Quality Online	ICSE2016_50	yes	yes	av	Two studies, observing professional developers with biometrics to predict cognitive load	"No specific task, observed developers ""in the field"""
+CUSTODES: Automatic Spreadsheet Cell Clustering and Smell Detection Using Strong and Weak Features	ICSE2016_51	yes	no			
+"Disseminating Architectural Knowledge on Open-Source Projects: A Case Study of the Book ""Architecture of Open-Source Applications"""	ICSE2016_52	yes	yes	na	Qualitative study	
+Identifying and Quantifying Architectural Debt	ICSE2016_53	yes	no			
+Generating Performance Distributions via Probabilistic Symbolic Execution	ICSE2016_54	yes	no			
+Decoupling Level: A New Metric for Architectural Maintenance Complexity	ICSE2016_55	yes	no			
+On The Limits of Mutation Reduction Strategies	ICSE2016_56	yes	no			
+Comparing White-Box and Black-Box Test Prioritization	ICSE2016_57	yes	no			
+How Does Regression Test Prioritization Perform in Real-World Software Evolution?	ICSE2016_58	yes	no			
+The Impact of Test Case Summaries on Bug Fixing Performance: An Empirical Investigation	ICSE2016_59	yes	yes	s, but only one task	Evaluation of test case summary tool, which improves comprehensibility, on two tests	Test target class, fix as many bugs as possible
+Nomen est Omen: Exploring and Exploiting Similarities between Argument and Parameter Names	ICSE2016_6	yes	no			
+Reducing Combinatorics in GUI Testing of Android Applications	ICSE2016_60	yes	no			
+MobiPlay: A Remote Execution Based Record-and-Replay Tool for Mobile Applications	ICSE2016_61	yes	no			
+VDTest: An Automated Framework to Support Testing for Virtual Devices	ICSE2016_62	yes	no			
+Automated Test Suite Generation for Time-Continuous Simulink Models	ICSE2016_63	yes	no			
+Missing Data Imputation Based on Low-Rank Recovery and Semi-Supervised Regression for Software Effort Estimation	ICSE2016_64	yes	no			
+Performance Issues and Optimizations in JavaScript: An Empirical Study	ICSE2016_65	yes	no			
+Multi-objective Software Effort Estimation	ICSE2016_66	yes	no			
+A Practical Guide to Select Quality Indicators for Assessing Pareto-Based Search Algorithms in Search-Based Software Engineering	ICSE2016_67	yes	no			
+A Comparison of 10 Sampling Algorithms for Configurable Systems	ICSE2016_68	yes	no			
+Featured Model-Based Mutation Analysis	ICSE2016_69	yes	no			
+Floating-Point Precision Tuning Using Blame Analysis	ICSE2016_7	yes	no			
+Feature-Model Interfaces: The Highway to Compositional Analyses of Highly-Configurable Systems	ICSE2016_70	yes	no			
+How Does the Degree of Variability Affect Bug Finding?	ICSE2016_71	yes	yes	both	Controlled study, studying how degrees of variability influence time/accuracy of bug finding. Three snippets with three levels of variability each. Each snippet is discussed individually, but also some averages across tasks	Identify bugs in code
+Angelix: Scalable Multiline Program Patch Synthesis via Symbolic Analysis	ICSE2016_72	yes	no			
+An Analysis of the Search Spaces for Generate and Validate Patch Generation Systems	ICSE2016_73	yes	no			
+PAC Learning-Based Verification and Model Synthesis	ICSE2016_74	yes	no			
+StubDroid: Automatic Inference of Precise Data-Flow Summaries for the Android Framework	ICSE2016_75	yes	no			
+Reliability of Run-Time Quality-of-Service Evaluation Using Parametric Model Checking	ICSE2016_76	yes	no			
+Exploring Language Support for Immutability	ICSE2016_77	yes	yes	na	Interviews and small pilot study with 3 developers regarding immutability in Java, four tasks of 90 minutes, but only exploration	Various tasks regarding immutability
+The Evolution of C Programming Practices: A Study of the Unix Operating System 1973-2015	ICSE2016_78	yes	no			
+An Empirical Study on the Impact of C++ Lambdas and Programmer Experience	ICSE2016_79	yes	yes	both	Controlled study, C++ lambdas vs. iterators. Two groups, one using lambdas, one iterators. Four tasks (first was a warmup). Individual tasks and averages are presented/discussed	Implement function with lambda/iterator
+Belief & Evidence in Empirical Software Engineering	ICSE2016_8	yes	yes	na	Qualitative study	
+Understanding and Fixing Multiple Language Interoperability Issues: The C/Fortran Case	ICSE2016_80	yes	no			
+BigDebug: Debugging Primitives for Interactive Big Data Processing in Spark	ICSE2016_81	yes	no			
+Debugging for Reactive Programming	ICSE2016_82	yes	yes	both	Controlled experiment to evaluate a debugger tool for Reactive Programming. Stats done on group, but individual tasks are discussed	Four questions regarding code behavior, two bug fix tasks
+Revisit of Automatic Debugging via Human Focus-Tracking Analysis	ICSE2016_83	yes	yes	av	Controlled online experiment investigating whether Spectrum-Based Fault Localization is helpful for developers. Multiple programs, but every participant got a random two. Only averages are discussed	Fix bug
+RETracer: Triaging Crashes by Reverse Execution from Partial Memory Dumps	ICSE2016_84	yes	no			
+"Are ""Non-functional"" Requirements really Non-functional? An Investigation of Non-functional Requirements in Practice"	ICSE2016_85	yes	no			
+Probing for Requirements Knowledge to Stimulate Architectural Thinking	ICSE2016_86	yes	yes	na	interviews/online survey	
+Optimizing Selection of Competing Services with Probabilistic Hierarchical Refinement	ICSE2016_87	yes	no			
+Risk-Driven Revision of Requirements Models	ICSE2016_88	yes	no			
+"Discovering ""Unknown Known"" Security Requirements"	ICSE2016_89	yes	no			
+Crowdsourcing Program Preconditions via a Classification Game	ICSE2016_9	yes	no			
+Behavioral Log Analysis with Statistical Guarantees	ICSE2016_90	yes	no			
+Efficient Large-Scale Trace Checking Using MapReduce	ICSE2016_91	yes	no			
+Feedback-Directed Instrumentation for Deployed JavaScript Applications	ICSE2016_92	yes	no			
+DoubleTake: Fast and Precise Error Detection via Evidence-Based Dynamic Analysis	ICSE2016_93	yes	no			
+Automated Partitioning of Android Applications for Trusted Execution Environments	ICSE2016_94	yes	no			
+"""Jumping Through Hoops"": Why do Java Developers Struggle with Cryptography APIs?"	ICSE2016_95	yes	yes	na	amongst others: survey of developers	
+Finding Security Bugs in Web Applications Using a Catalog of Access Control Patterns	ICSE2016_96	yes	no			
+Reference Hijacking: Patching, Protecting and Analyzing on Unmodified and Non-rooted Android Devices	ICSE2016_97	yes	no			
+The Emerging Role of Data Scientists on Software Development Teams	ICSE2016_98	yes	yes	na	Interviews	
+Building a Theory of Job Rotation in Software Engineering from an Instrumental Case Study	ICSE2016_99	yes	yes	na	qualitative study	
+Recommending and Localizing Change Requests for Mobile Apps Based on User Reviews	ICSE2017_1	yes	yes?	na	interviews as evaluation for the developed tool	
+Search-Driven String Constraint Solving for Vulnerability Detection	ICSE2017_10	yes	no			
+A Guided Genetic Algorithm for Automated Crash Reproduction	ICSE2017_11	yes	no			
+Stochastic Optimization of Program Obfuscation	ICSE2017_12	yes	yes	av	Evaluated obfuscation tool with developers, same task for 10 snippets, result is discussed as average	
+ZenIDS: Introspective Intrusion Detection for PHP Applications	ICSE2017_13	yes	no			
+Statically Checking Web API Requests in JavaScript	ICSE2017_14	yes	no			
+On Cross-Stack Configuration Errors	ICSE2017_15	yes	no			
+Efficient Detection of Thread Safety Violations via Coverage-Guided Generation of Concurrent Tests	ICSE2017_16	yes	no			
+Analyzing APIs Documentation and Code to Detect Directive Defects	ICSE2017_17	yes	no			
+RClassify: Classifying Race Conditions in Web Applications via Deterministic Replay	ICSE2017_18	yes	no			
+Repairing Event Race Errors by Controlling Nondeterminism	ICSE2017_19	yes	no			
+Machine Learning-Based Detection of Open Source License Exceptions	ICSE2017_2	yes	no			
+Semantically Enhanced Software Traceability Using Deep Learning Techniques	ICSE2017_20	yes	no			
+Making Malory Behave Maliciously: Targeted Fuzzing of Android Execution Environments	ICSE2017_21	yes	no			
+A SEALANT for Inter-App Security Holes in Android	ICSE2017_22	yes	yes	av	"Used human study (and survey) to evaluate tool. Participants were asked to do 20 tasks across four ""types"", results are discussed on the basis types"	
+An Efficient, Robust, and Scalable Approach for Analyzing Interacting Android Apps	ICSE2017_23	yes	no			
+LibD: Scalable and Precise Third-Party Library Detection in Android Markets	ICSE2017_24	yes	no			
+Analysis and Testing of Notifications in Android Wear Applications	ICSE2017_25	yes	no			
+Adaptive Unpacking of Android Apps	ICSE2017_26	yes	no			
+Performance Diagnosis for Inefficient Loops	ICSE2017_27	yes	no			
+An Unsupervised Approach for Discovering Relevant Tutorial Fragments for APIs	ICSE2017_28	yes	no			
+How Do Developers Fix Cross-Project Correlated Bugs? A Case Study on the GitHub Scientific Python Ecosystem	ICSE2017_29	yes	yes	na	Qualtitative study, survey on cross-project bugs	
+Software Development Waste	ICSE2017_3	yes	yes	na	"Qualitative study: open-ended interviews with developers to understand software development ""waste"""	
+Feedback-Based Debugging	ICSE2017_30	yes	yes	s	User study to evaluate debugging tool, two groups, each group got three tasks. Results are discussed on a task-basis	Find bug in code
+Learning Syntactic Program Transformations from Examples	ICSE2017_31	yes	no			
+Precise Condition Synthesis for Program Repair	ICSE2017_32	yes	no			
+Heuristically Matching Solution Spaces of Arithmetic Formulas to Efficiently Reuse Solutions	ICSE2017_33	yes	no			
+Exploring API Embedding for API Usages and Applications	ICSE2017_34	yes	no			
+Unsupervised Software-Specific Morphological Forms Inference from Informal Discussions	ICSE2017_35	yes	yes	av	four participants evaluated 400 abbr. and 800 synonyms, only as average	
+SPAIN: Security Patch Analysis for Binaries towards Understanding the Pain and Pills	ICSE2017_36	yes	no			
+Travioli: A Dynamic Analysis for Detecting Data-Structure Traversals	ICSE2017_37	yes	no			
+ProEva: Runtime Proactive Performance Evaluation Based on Continuous-Time Markov Chains	ICSE2017_38	yes	no			
+Detecting User Story Information in Developer-Client Conversations to Generate Extractive Summaries	ICSE2017_39	yes	yes	na	qualtitative study	
+Becoming Agile: A Grounded Theory of Agile Transitions in Practice	ICSE2017_4	yes	yes	na	Grounded-theory approach, interviewed developers on agile development	
+Glacier: Transitive Class Immutability for Java	ICSE2017_40	yes	yes	s	Evaluation of an alternative to Java's final to declare immutibility, Participants were asked to execute four tasks, which were discussed individually.	Make specific things immutable
+Challenges for Static Analysis of Java Reflection - Literature Review and Empirical Study	ICSE2017_41	yes	no			
+Machine-Learning-Guided Selectively Unsound Static Analysis	ICSE2017_42	yes	no			
+How Good Is a Security Policy against Real Breaches? A HIPAA Case Study	ICSE2017_43	yes	no			
+Adaptive Coverage and Operational Profile-Based Testing for Reliability Improvement	ICSE2017_44	yes	no			
+RADAR: A Lightweight Tool for Requirements and Architecture Decision Analysis	ICSE2017_45	yes	no			
+PEoPL: Projectional Editing of Product Lines	ICSE2017_46	yes	no			
+Do Developers Read Compiler Error Messages?	ICSE2017_47	yes	yes	s	Eye tracking study of developers reading compiler errors, results are discussed presented for each individual task	Find reasonable solution to fix defect/compiler error
+A General Framework for Dynamic Stub Injection	ICSE2017_48	yes	no			
+An Empirical Study on Mutation, Statement and Branch Coverage Fault Revelation That Avoids the Unreliable Clean Program Assumption	ICSE2017_49	yes	no			
+Can Latent Topics in Source Code Predict Missing Architectural Tactics?	ICSE2017_5	yes	no			
+Clone Refactoring with Lambda Expressions	ICSE2017_50	yes	no			
+Evaluating and Improving Fault Localization	ICSE2017_51	yes	no			
+Syntactic and Semantic Differencing for Combinatorial Models of Test Designs	ICSE2017_52	yes	yes	av	Evaluation of semantic and syntactical model diffs depending on expertise, results are discussed on average (but there were only two models)	Comprehend model differences, was checked with questions regarding semantics and syntactics
+Balancing Soundness and Efficiency for Practical Testing of Configurable Systems	ICSE2017_53	yes	no			
+Automatic Text Input Generation for Mobile Testing	ICSE2017_54	yes	no			
+A Test-Suite Diagnosability Metric for Spectrum-Based Fault Localization Approaches	ICSE2017_55	yes	no			
+Automated Transplantation and Differential Testing for Clones	ICSE2017_56	yes	no			
+Code Defenders: Crowdsourcing Effective Tests and Subtle Mutants with a Mutation Testing Game	ICSE2017_57	yes	yes	both	Gamified writing tests for more enjoyment, participants used the tool. Table 2 contains single task values, but discussion is on averages	Write tests/mutants with the developed tool/online game
+Optimizing Test Placement for Module-Level Regression Testing	ICSE2017_58	yes	yes	na	Asked for developers' on their tool	
+Learning to Prioritize Test Programs for Compiler Testing	ICSE2017_59	yes	no			
+From Diversity by Numbers to Diversity as Process: Supporting Inclusiveness in Software Development Teams with Brainstorming	ICSE2017_6	yes	yes	na	combination of survey and interviews to understand being a minorty/brainstorming	
+Characterizing and Detecting Anti-Patterns in the Logging Code	ICSE2017_60	yes	no			
+What Causes My Test Alarm? Automatic Cause Analysis for Test Alarms in System and Integration Testing	ICSE2017_61	yes	no			
+Symbolic Model Extraction for Web Application Verification	ICSE2017_62	yes	no			
+UML Diagram Refinement (Focusing on Class-and Use Case Diagrams)	ICSE2017_63	yes	no			
+Fuzzy Fine-Grained Code-History Analysis	ICSE2017_64	yes	no			
+To Type or Not to Type: Quantifying Detectable Bugs in JavaScript	ICSE2017_65	yes	no			
+The Evolution of Continuous Experimentation in Software Product Development: From Data to a Data-Driven Organization at Scale	ICSE2017_66	yes	yes	na	qualitative study	
+Automated Refactoring of Legacy Java Software to Default Methods	ICSE2017_67	yes	no			
+Supporting Software Developers with a Holistic Recommender System	ICSE2017_68	yes	yes	av	four different tasks to be implemented with or without a helper/recommender tool. Discussed on averages.	Feature implementation
+Classifying Developers into Core and Peripheral: An Empirical Study on Count and Network Metrics	ICSE2017_7	yes	yes	na	qualitative study: online survey	
+Decoding the Representation of Code in the Brain: An fMRI Study of Code Review and Expertise	ICSE2017_8	yes	yes	av	fMRI study compared program comprehension vs. prose reading vs. pull request on group basis with ML. Averages per task group.	program comprehension, pull request, prose change
+Understanding the Impressions, Motivations, and Barriers of One Time Code Contributors to FLOSS Projects: A Survey	ICSE2017_9	yes	yes	na	online survey regarding one time commit to open-source project: reasons for it	
+Self-Hiding Behavior in Android Apps: Detection and Characterization	ICSE2018_1	yes	no			
+Secure Coding Practices in Java: Challenges and Vulnerabilities	ICSE2018_10	yes	no			
+Identifying Features in Forks	ICSE2018_100	yes	yes	na	Qualitatively evaluate tool for fork-based feature development (interviews)	
+Large-Scale Analysis of Framework-Specific Exceptions in Android Apps	ICSE2018_101	yes	no			
+A Static Verification Framework for Message Passing in Go Using Behavioural Types	ICSE2018_102	yes	no			
+HireBuild: An Automatic Approach to History-Driven Repair of Build Scripts	ICSE2018_103	yes	no			
+FaCoY – A Code-to-Code Search Engine	ICSE2018_104	yes	no			
+RFC-Directed Differential Testing of Certificate Validation in SSL/TLS Implementations	ICSE2018_105	yes	no			
+Open Source Barriers to Entry, Revisited: A Sociotechnical Perspective	ICSE2018_11	yes	yes	na	field study	
+Deep Code Search	ICSE2018_12	yes	no			
+Repairing Crashes in Android Apps	ICSE2018_13	yes	no			
+Automated Repair of Mobile Friendly Problems in Web Pages	ICSE2018_14	yes	yes	na	survey to evaluate redesigned mobile-friendly websites	
+Towards Optimal Concolic Testing	ICSE2018_15	yes	no			
+Towards Practical Program Repair with On-demand Candidate Generation	ICSE2018_16	yes	no			
+Statistical Errors in Software Engineering Experiments: A Preliminary Literature Review	ICSE2018_17	yes	no			
+Programming Not Only by Example	ICSE2018_18	yes	yes	s	Results, statistics, discussion of individual tasks	Programming by example, iteratively improved by feedback
+Adding Sparkle to Social Coding: An Empirical Study of Repository Badges in the npm Ecosystem	ICSE2018_19	yes	yes	na	survey	
+To Distribute or Not to Distribute? Why Licensing Bugs Matter	ICSE2018_2	yes	no			
+Accurate and Efficient Refactoring Detection in Commit History	ICSE2018_20	yes	no			
+Roles and Impacts of Hands-on Software Architects in Five Industrial Case Studies	ICSE2018_21	yes	yes	na	interviews	
+The Evolution of Requirements Practices in Software Startups	ICSE2018_22	yes	yes	na	grounded theory, interviews, observations, …	
+A Large-Scale Empirical Study on the Effects of Code Obfuscations on Android Apps and Anti-Malware Products	ICSE2018_23	yes	no			
+A Combinatorial Approach for Exposing Off-Nominal Behaviors	ICSE2018_24	yes	no			
+Generalized Data Structure Synthesis	ICSE2018_25	yes	no			
+Testing Vision-Based Control Systems Using Learnable Evolutionary Algorithms	ICSE2018_26	yes	no			
+Multi-granular Conflict and Dependency Analysis in Software Engineering Based on Graph Transformation	ICSE2018_27	yes	yes	av	User study to evaluate coarse vs. fine granuliaty in conflicts and dependencies, cross-over design, only averages are presented/discussed	Comprehension tasks based on the conflict analysis
+When Not to Comment: Questions and Tradeoffs with API Documentation for C++ Projects	ICSE2018_28	yes	yes	na	survey, interviews	
+DroidStar: Callback Typestates for Android Classes	ICSE2018_29	yes	no			
+GUILeak: Tracing Privacy Policy Claims on User Input Data for Android Applications	ICSE2018_3	yes	no			
+Fine-Grained Test Minimization	ICSE2018_30	yes	no			
+Hybrid Regression Test Selection	ICSE2018_31	yes	no			
+ConflictJS: Finding and Understanding Conflicts Between JavaScript Libraries	ICSE2018_32	yes	no			
+How Modern News Aggregators Help Development Communities Shape and Share Knowledge	ICSE2018_33	yes	yes	na	interviews/survey	
+Launch-Mode-Aware Context-Sensitive Activity Transition Analysis	ICSE2018_34	yes	no			
+Augusto: Exploiting Popular Functionalities for the Generation of Semantic GUI Tests with Oracles	ICSE2018_35	yes	no			
+UFO: Predictive Concurrency Use-After-Free Detection	ICSE2018_36	yes	no			
+Inferring Hierarchical Motifs from Execution Traces	ICSE2018_37	yes	yes	s	Controlled experiment, evaluation of interactive visualization tool to aid program comprehension. Two groups: with tool/user's choice, three tasks. Individually discussed	Comprehension tasks: understand feature, locate code, ..
+Search-Based Test Data Generation for SQL Queries	ICSE2018_38	yes	no			
+Sentiment Analysis for Software Engineering: How Far Can We Go?	ICSE2018_39	yes	no			
+Identifying Patch Correctness in Test-Based Program Repair	ICSE2018_4	yes	no			
+Deuce: A Lightweight User Interface for Structured Editing	ICSE2018_40	yes	yes	s, but necessary	Controlled user study, evaluation of structure-aware code editor, six tasks	Refactoring, code writing
+Multi-objective Integer Programming Approaches for Solving Optimal Feature Selection Problem: A New Perspective on Multi-objective Optimization Problems in SBSE	ICSE2018_41	yes	no			
+Redefining Prioritization: Continuous Prioritization for Continuous Integration	ICSE2018_42	yes	no			
+Chopped Symbolic Execution	ICSE2018_43	yes	no			
+Context-Aware Patch Generation for Better Automated Program Repair	ICSE2018_44	yes	no			
+Perses: Syntax-Guided Program Reduction	ICSE2018_45	yes	no			
+A Graph Solver for the Automated Generation of Consistent Domain-Specific Models	ICSE2018_46	yes	no			
+Assessing the Threat of Untracked Changes in Software Evolution	ICSE2018_47	yes	no			
+Collective Program Analysis	ICSE2018_48	yes	no			
+Do Programmers Work at Night or During the Weekend?	ICSE2018_49	yes	no			
+Semantic Program Repair Using a Reference Implementation	ICSE2018_5	yes	no			
+Automated Localization for Unreproducible Builds	ICSE2018_50	yes	no			
+Efficient Sampling of SAT Solutions for Testing	ICSE2018_51	yes	no			
+Debugging with Intelligence via Probabilistic Inference	ICSE2018_52	yes	yes	s	Evaluation of novel debugger. Two groups: with novel tool/default debugger. Tasks are individually presented and discussed.	Debug four buggy programs
+Inheritance Usage Patterns in Open-Source Systems	ICSE2018_53	yes	no			
+Identifying Design Problems in the Source Code: A Grounded Theory	ICSE2018_54	yes	yes	na	grounded theory, industry	
+From UI Design Image to GUI Skeleton: A Neural Machine Translator to Bootstrap Mobile GUI Implementation	ICSE2018_55	yes	yes	av	Evaluate GUI tool. Two groups: with/without tool. Results and discussion on average of all five tasks.	Implement skeleton GUI
+Neuro-Symbolic Program Corrector for Introductory Programming Assignments	ICSE2018_56	yes	no			
+Do You Remember This Source Code?	ICSE2018_57	yes	yes	na	survey	
+Software Protection on the Go: A Large-Scale Empirical Study on Mobile App Obfuscation	ICSE2018_58	yes	no			
+Goal-Conflict Likelihood Assessment Based on Model Counting	ICSE2018_59	yes	no			
+Automated Reporting of GUI Design Violations for Mobile Apps	ICSE2018_6	yes	yes	na	survey/interviews	
+Does the Propagation of Artifact Changes Across Tasks Reflect Work Dependencies?	ICSE2018_60	yes	no			
+To Preserve or Not to Preserve Invalid Solutions in Search-Based Software Engineering: A Case Study in Software Product Lines	ICSE2018_61	yes	no			
+Debugging Data Flows in Reactive Programs	ICSE2018_62	yes	yes	s, but tasks are too different to be combined	Novel tool to help reactive programming. Two groups: classic IDE vs. rxfiddle	Programming problems: find bug/describe possible solution
+Inferring and Asserting Distributed System Invariants	ICSE2018_63	yes	no			
+Enlightened Debugging	ICSE2018_64	yes	yes	both	Two user studies (different difficulty levels), Evaluation of interactive, feedback-driven fault localization technique, two groups: with/without novel tool. Tasks are individually discussed, but at the end tool effect is on averages.	Debug error
+Speedoo: Prioritizing Performance Optimization Opportunities	ICSE2018_65	yes	no			
+Leveraging Program Analysis to Reduce User-Perceived Latency in Mobile Applications	ICSE2018_66	yes	no			
+Are Code Examples on an Online Q&A Forum Reliable?: A Study of API Misuse on Stack Overflow	ICSE2018_67	yes	no			
+"Is ""Better Data"" Better Than ""Better Data Miners""?"	ICSE2018_68	yes	no			
+"""Was My Contribution Fairly Reviewed?"" A Framework to Study the Perception of Fairness in Modern Code Reviews"	ICSE2018_69	yes	yes	na	qualitative study	
+DetReduce: Minimizing Android GUI Test Suites for Regression Testing	ICSE2018_7	yes	no			
+Program Splicing	ICSE2018_70	yes	yes	s	Evaluate novel tool, within-subject design, individual results are discussed	Four programming tasks: implementations
+How not to Structure Your Database-Backed Web Applications: A Study of Performance Bugs in the Wild	ICSE2018_71	yes	no			
+Are Mutation Scores Correlated with Real Fault Detection? A Large Scale Empirical Study on the Relationship Between Mutants and Real Faults	ICSE2018_72	yes	no			
+A Temporal Permission Analysis and Enforcement Framework for Android	ICSE2018_73	yes	no			
+The Road to Live Programming: Insights from the Practice	ICSE2018_74	yes	yes	na	Exploratory study, survey	
+Spatio-Temporal Context Reduction: A Pointer-Analysis-Based Static Approach for Detecting Use-After-Free Vulnerabilities	ICSE2018_75	yes	no			
+Statistical Learning of API Fully Qualified Names in Code Snippets of Online Forums	ICSE2018_76	yes	no			
+FAST Approaches to Scalable Similarity-Based Test Case Prioritization	ICSE2018_77	yes	no			
+Precise Concolic Unit Testing of C Programs Using Extended Units and Symbolic Alarm Filtering	ICSE2018_78	yes	no			
+Automatically Finding Bugs in a Commercial Cyber-Physical System Development Tool Chain With SLforge	ICSE2018_79	yes	no			
+Time to Clean Your Test Objectives	ICSE2018_8	yes	no			
+Almost There: A Study on Quasi-Contributors in Open-Source Software Projects	ICSE2018_80	yes	yes	na	survey	
+CCAligner: A Token Based Large-Gap Clone Detector	ICSE2018_81	yes	no			
+Nemo: Multi-criteria Test-Suite Minimization with Integer Nonlinear Programming	ICSE2018_82	yes	no			
+Automatically Generating Search Heuristics for Concolic Testing	ICSE2018_83	yes	no			
+EnMobile: Entity-Based Characterization and Analysis of Mobile Malware	ICSE2018_84	yes	no			
+Towards Refactoring-Aware Regression Test Selection	ICSE2018_85	yes	no			
+Understanding Developers' Needs on Deprecation as a Language Feature	ICSE2018_86	yes	yes	na	interviews/survey	
+Symbolic Verification of Regular Properties	ICSE2018_87	yes	no			
+Propagating Configuration Decisions with Modal Implication Graphs	ICSE2018_88	yes	no			
+Reducer-Based Construction of Conditional Verifiers	ICSE2018_89	yes	no			
+DeFlaker: Automatically Detecting Flaky Tests	ICSE2018_9	yes	no			
+When Testing Meets Code Review: Why and How Developers Review Tests	ICSE2018_90	yes	yes	na	interviews	
+DeepTest: Automated Testing of Deep-Neural-Network-Driven Autonomous Cars	ICSE2018_91	yes	no			
+Dataflow Tunneling: Mining Inter-Request Data Dependencies for Request-Based Applications	ICSE2018_92	yes	no			
+Online App Review Analysis for Identifying Emerging Issues	ICSE2018_93	yes	yes	na	survey	
+Context-Aware Conversational Developer Assistants	ICSE2018_94	yes	yes	na	Largely qualititative/interviews	
+Synthesizing Qualitative Research in Software Engineering: A Critical Review	ICSE2018_95	yes	yes	na	Small part, requested original authors' feedback	
+Prioritizing Browser Environments for Web Application Test Execution	ICSE2018_96	yes	no			
+Static Automated Program Repair for Heap Properties	ICSE2018_97	yes	no			
+Traceability in the Wild: Automatically Augmenting Incomplete Trace Links	ICSE2018_98	yes	no			
+On the Dichotomy of Debugging Behavior Among Programmers	ICSE2018_99	yes	yes	na	Qualitative mixed methods: survey, observations, interviews	
