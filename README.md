@@ -1,5 +1,20 @@
 # Materials for ICSE'19 Paper
 
+# Literature Survey
+
+We provide a list with all reviewed studies including our assessment comments and explanations in `literature_review.tsv`.
+
+# Reanalysis with Aggregation
+
+
+# Levels of Aggregation
+
+## Outlier Plots
+
+![ICSE Outliers](ICSE_Outliers.png)
+![FSE Outliers](FSE_Outliers.png)
+![ESEM Outliers](ESEM_Outliers.png)
+
 ## Software Setup
 
 * Python 3.3
@@ -32,8 +47,4 @@ After that only the prediction is executed, which should not take more than a fe
 Be sure to have write permission, as several files are created during the generation and prediction.
 
 In the sense of transparent and replicable science, we are doing our best to provide all necessary information on this Web site. Please contact us if you run into any troubles!
-
-# Literature Review
-
-A list of all reviewed studies with our assessment comments and explanations is provided in `literature_review.tsv`.
 
