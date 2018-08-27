@@ -4,7 +4,7 @@
 
 We provide a list with all reviewed studies including our assessment comments and explanations in `literature_review.tsv`.
 
-# Reanalysis with Aggregation of Studies from Literature Surveys
+# Reanalysis with Aggregation of Studies from Literature Survey
 
 ## Study 1: Does organizing security patterns focus architectural choices?
 
@@ -13,7 +13,7 @@ Paper's Web site: https://distrinet.cs.kuleuven.be/software/securitypatterns/
 For reanalysis of both, time and efficiency, we removed outliers according to Figures 2 and 3 of the original paper, and we removed all rows that belonged to Task A, which was the warm up task and was ignored for the analysis.
 
 Time: The according file for reanalysis is available at: https://distrinet.cs.kuleuven.be/software/securitypatterns/effort.csv
-(we used the term time, instead of effort, to be consistent within our paper). We computed the sum of the three last columns denoting the completing time (i.e, "STUDY_REQUIREMENT","CREATING_SHORTLIST", and "FINAL_SELECTION"). We only used this column from now on. Furthermore, we removed all column except the column "Group", which denotes whether participants worked with or without structured security patterns. Thus, the input data consisted of just two columns: Group and Sum. Then, we tested for normal distribution and conducted the Wilcoxon test, since data are not normally distributed (these two steps are available in the jupyter notebook `/reanalysis/Reanalysis.ipynb`; for the others steps, we used Excel).
+(we used the term time, instead of effort, to be consistent within our paper). We computed the sum of the three last columns denoting the completing time (i.e, "STUDY_REQUIREMENT","CREATING_SHORTLIST", and "FINAL_SELECTION"). We only used this column from now on. Furthermore, we removed all column except the column "Group", which denotes whether participants worked with or without structured security patterns. Thus, the input data consisted of just two columns: Group and Sum. Then, we tested for normal distribution and conducted the Wilcoxon test, since data are not normally distributed (these two steps are available in the jupyter notebook `/reanalysis/Reanalysis.ipynb`; for the other steps, we used Excel).
 
 Efficiency: The according data set is available at:
 https://distrinet.cs.kuleuven.be/software/securitypatterns/efficiency.csv
@@ -29,11 +29,11 @@ Time: We computed the arithmetic mean for all static and maintenance tasks. The 
 
 Correctness: We summarized the correctness according to Figure 5 of the original paper. In the jupyter notebook, there are the results of the according chi^2 test.
 
-## Study 3: Do Developers Read Compiler Error Messages?
+## Study 3: Do developers read compiler error messages?
 
 Paper's Website: http://static.barik.net/barik/gazerbeams/
 
-For reanalysis, we aggregated the gaze aggregated the gaze data of participants according to Tables 1 (task categories), 2 (correctness), and 3 (gaze behavior) of the original paper. The reanalsis is available in the jupyter notebook reanalysis. 
+For reanalysis, we aggregated the gaze data of participants according to Tables 1 (task categories), 2 (correctness), and 3 (gaze behavior) of the original paper. The reanalsis is available in the jupyter notebook reanalysis.
 
 # Levels of Aggregation
 
