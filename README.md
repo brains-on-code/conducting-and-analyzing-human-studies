@@ -11,8 +11,13 @@ We provide a list with all reviewed studies including our assessment comments an
 
 ## Outlier Plots
 
+### ICSE '14
 ![ICSE Outliers](ICSE_Outliers.png)
+
+### FSE '17
 ![FSE Outliers](FSE_Outliers.png)
+
+### ESEM '18
 ![ESEM Outliers](ESEM_Outliers.png)
 
 ## Software Setup
