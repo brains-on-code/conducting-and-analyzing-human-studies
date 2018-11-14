@@ -4,6 +4,16 @@
 
 We provide a list with all reviewed studies including our assessment comments and explanations in `literature_review.tsv`.
 
+We like to note that we defined the term `empirical` broadly and thus included many studies that would not hold a strict definition of empirical study.
+
+Here is a broad summary of the results:
+
+|   |  Empirical/All|Human | Tasks/no tasks  |  aggregated/not aggregated/both |
+|---|---|---|---|---|
+| ICSE  | 536/540  | 152  | 65/87  | 29/25/11  |
+| ESEC/FSE  |  397/399 |  60 | 21/39  | 5/14/2  |
+| EMSE  | 319/325  |  106  | 56/50  | 30/9/14  |
+
 # Reanalysis with Aggregation of Studies from Literature Survey
 
 ## Study 1: Does organizing security patterns focus architectural choices?
