@@ -1,4 +1,4 @@
-# Materials for ICSE'19 Paper
+# Materials for Paper "Conducting and Analyzing Human Studies: The Role of Variation and Aggregation"
 
 # Literature Survey
 
