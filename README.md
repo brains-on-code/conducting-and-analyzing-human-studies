@@ -77,13 +77,13 @@ Note that there is also some randomness in the tpot approach, running it again m
 For each of the three fMRI studies, we show the z-transformed data of the voxels. The x axis shows all scans of each participant (e.g., there are 900 scans for the ICSE study, and 16 participants, so this translates to 900 x 16 = 14 000 values on the x-axis). The y axis shows the activation values of each voxel, after z transformation.
 
 ### ICSE '14
-![ICSE Outliers](Part3 Levels of Aggregation/ICSE_Outliers.png)
+![ICSE Outliers](Part3%20Levels%20of%20Aggregation/ICSE_Outliers.png)
 
 ### FSE '17
-![FSE Outliers](Part3 Levels of Aggregation/FSE_Outliers.png)
+![FSE Outliers](/Part3%20Levels%20of%20Aggregation/FSE_Outliers.png)
 
 ### ESEM '18
-![ESEM Outliers](Part3 Levels of Aggregation/ESEM_Outliers.png)
+![ESEM Outliers](/Part3%20Levels%20of%20Aggregation/ESEM_Outliers.png)
 
 ## Contact
 
