@@ -36,7 +36,7 @@ We like to note that we defined the term `empirical` broadly and thus included m
 
 # Part 2: Reanalyzed Studies
 
-In the folder `Part2 Reanalyzed Studies`, we provide the scripts and data of each study that we reanalyzed. We also provide a short summary of the study and our results in a PDF in each folder.
+In the folder `Part2 Reanalyzed Studies`, we provide the scripts and data of each study that we reanalyzed. We also provide a short summary of the study and our results in a `Summary.pdf` in each folder.
 
 Overall, we reanalyzed 12 studies.
 
