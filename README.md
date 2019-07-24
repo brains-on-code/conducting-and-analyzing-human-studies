@@ -1,6 +1,6 @@
 # Materials for Paper "Conducting and Analyzing Human Studies: The Role of Variation and Aggregation"
 
-# Part 1: Literature Survey
+# Part 1: Literature Review
 
 In the folder `Part1 Literature Review`, we provide a list with all reviewed studies including our assessment comments and explanations in `literature_review.tsv`. We prepared a summary in the table below.
 
