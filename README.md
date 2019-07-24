@@ -40,6 +40,22 @@ In the folder `Part2 Reanalyzed Studies`, we provide the scripts and data of eac
 
 Overall, we reanalyzed 12 studies.
 
+| Paper Title                                                  | Paper ID      | Statistical Test?                                            | Correction for Multiple Comparison?  | Appropriate Statistical Tests? | Test for Normality?                                          | Different results?                                           |
+| :----------------------------------------------------------- | ------------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Clone-Based and Interactive Recommendation for Modifying Pasted Code | FSE2015_41    |                                                              | No. Results change for two tasks     | Partly                         | No                                                           | Yes, ambiguous                                               |
+| Boa: a language and infrastructure for analyzing ultra-large-scale software repositories | ICSE13_19     | No                                                           | na                                   | na                             | na                                                           | No                                                           |
+| An empirical study on the impact of static typing on software maintainability | EMSE14_8      | Yes                                                          | No. Results change for one task      | Yes                            | Yes                                                          | Yes, but not because of the tests, but the interpretation    |
+| Does Organizing Security Patterns Focus Architectural Choices? | ICSE12_34     | Yes                                                          | No (but it would not change results) | Yes                            | Yes                                                          | Yes. Ambiguous in their interpretation: i.e., they define a null hypothesis for each task, but in the higher level discussions (intro, discussion,…) they do not make this differentiation, but state the efficiency in general |
+| Drag-and-Drop Refactoring: Intuitive and Efficient Program Transformation | ICSE13_38     | Yes                                                          | No (but it would not change results) | Yes                            | Unclear ("we cannot assume that the data (configuration time) is normally distributed") | No                                                           |
+|                                                              |               |                                                              |                                      |                                |                                                              |                                                              |
+| Do Background Colors Improve Program Comprehension in the \#ifdef Hell? | ESE13_18(4)_2 | Yes                                                          | No. Results change for one task      | Yes                            | Yes                                                          | Yes (task-specific peculiarity)                              |
+| Do Security Patterns Really Help Designers?                  | ICSE2015_19   | Yes                                                          | No. Results change for one task      | Yes                            | Yes                                                          | Yes, for one task. Different analysis tools (Python vs. R) led to different results for Task E. |
+| Do Developers Read Compiler Error Messages?                  | ICSE2017_47   | Not really (only to compare response times of correct and incorrect solutions; not for correctness or gaze behavior) | na                                   | na                             | na                                                           | No, but more nuanced                                         |
+| Feedback-Based Debugging                                     | ICSE2017_30   | Yes                                                          | No (but it would not change results) | Unclear                        | Unclear                                                      | No                                                           |
+| FlexJava: Language Support for Safe and Modular Approximate Programming | FSE2015_62    | No (but should have)                                         | na                                   | na                             | na                                                           | No                                                           |
+| Explaining Inconsistent Code                                 |               | No                                                           | na                                   | na                             | na                                                           | No                                                           |
+| Debugging with Intelligence via Probabilistic Inference      | ICSE2018_52   | Yes                                                          | No                                   | No                             | No                                                           | Yes                                                          |
+
 # Part 3: Levels of Aggregation
 
 In the folder `Part3 Levels of Aggregation`, we share our analyses for the levels of aggregation. We analyzed data from three functional magnetic resonance imaging (fMRI) studies.
@@ -53,13 +69,13 @@ Each study folder (`esem`, `fse`, `icse`) contains the scripts and generated lea
 
 To this end, you need to adapt each notebook with 'Prediction' in the name. You need to remove the following commands:
 
-```
+```python
 from tpot import TPOTClassifier
 
 tpot = TPOTClassifier(generations=5, population_size=20, verbosity=2, n_jobs=20)
 tpot.fit(training_features, training_target)
 print(tpot.score(testing_features, testing_target))
-tpot.export(fileNameTPot + '.py')"
+tpot.export(fileNameTPot + '.py')
 ```
 
 After that, you can run the ExecuteNotebook in each folder (i.e., ICSE, FSE, ESEM). Since only the prediction is executed, it should not take more than a few hours.
@@ -68,7 +84,7 @@ Be sure to have write permission, as several files are created during the genera
 
 For generating the learning pipelines, tpot is necessary: http://epistasislab.github.io/tpot/installing/
 
-We also installed XGBoost. For each input set, tpot automatically finds the optimal learning pipeline, including hyper parameters. You also need to run the ExecuteNotebook in each folder, but without adapting anything. Depending on the performance of the computer, it takes a day until all generation and learning is completed. You can reduce that time by reducing the number of generations and `population_size` (but this may lead to less optimal learning pipelines) or increase `n_jobs` (to the number of CPUs/GPUs that you can use at the same time).
+We also installed [XGBoost](https://xgboost.readthedocs.io/en/latest/) for increased performance. For each input set, tpot automatically finds the optimal learning pipeline, including hyper parameters. You also need to run the ExecuteNotebook in each folder, but without adapting anything. Depending on the performance of the computer, it takes a day until all generation and learning is completed. You can reduce that time by reducing the number of generations and `population_size` (but this may lead to less optimal learning pipelines) or increase `n_jobs` (to the number of CPUs/GPUs that you can use at the same time).
 
 Note that there is also some randomness in the tpot approach, running it again may not lead to the same learning pipelines that we used.
 
