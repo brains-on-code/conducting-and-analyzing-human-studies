@@ -1,4 +1,4 @@
-# Materials for Paper "Conducting and Analyzing Human Studies: The Role of Variation and Aggregation"
+# Materials for Paper "Mastering Variation in Human Studies: The Role of Aggregation" (TOSEM)
 
 # Part 1: Literature Review
 
